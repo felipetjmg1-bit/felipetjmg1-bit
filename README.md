@@ -33,8 +33,20 @@ Estou sempre em busca de novos desafios e colaborações que possam expandir os 
 
 ### 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipetjmg1-bit&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipetjmg1-bit&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=felipetjmg1-bit&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipetjmg1-bit&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=felipetjmg1-bit&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-profile-trophies.vercel.app/?username=felipetjmg1-bit&theme=radical" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 📈 Atividade Recente
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=felipetjmg1-bit&theme=radical" alt="GitHub Activity Graph" />
+</p>
 
 ---
 
