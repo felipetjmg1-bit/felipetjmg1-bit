@@ -1,48 +1,39 @@
-<div align="center">
-  <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663275657112/QxaUDMUykfUdLuOB.png" alt="Banner Ecossistema Aurora" width="100%"/>
-  <h1>✨ Bem-vindo ao Ecossistema Aurora: Inovação e Soberania Digital Brasileira ✨</h1>
-  <p><strong>Liderando a vanguarda da Inteligência Artificial, Blockchain Estratégica e Armazenamento 5D.</strong></p>
-  <p>Sou Felipe Marcos de Abreu Aquino, CEO da Impulso Digital Soluções em IA, e este é o portal para o futuro da tecnologia no Brasil. Minha missão é construir um ecossistema robusto e soberano, impulsionando a inovação e garantindo a segurança digital para as próximas gerações.</p>
-</div>
+![Status: Perfil e documentação](https://img.shields.io/badge/Status-Perfil%20e%20documenta%C3%A7%C3%A3o-blue) | [![Licença MIT](https://img.shields.io/github/license/felipetjmg1-bit/felipetjmg1-bit)](LICENSE) | [![Patrocinar](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?logo=githubsponsors)](https://github.com/sponsors/felipetjmg1-bit)
 
----
+# Felipe Marcos de Abreu Aquino
 
-## 🚀 Nossos Pilares Tecnológicos
+Perfil e portfólio de projetos publicados sob a conta `@felipetjmg1-bit`. Este repositório é documental: não contém uma aplicação executável, API ou pacote de software. As descrições abaixo distinguem código e demonstrações observáveis de propostas e objetivos futuros.
 
-No coração do Ecossistema Aurora, residem tecnologias disruptivas que definem o amanhã:
+## Projetos em destaque
 
-<div align="center">
-  <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663275657112/DfDDtPoBPSXUsaCL.png" alt="Aurora Tech Stack" width="80%"/>
-</div>
+- [Projeto Ybyrá](https://github.com/felipetjmg1-bit/projeto-ybyra) — protótipo educacional em Python com codificação digital inspirada em DNA, XAI simples, simulação clássica BB84 e provas de inclusão Merkle.
+- [Sentinela Brasil](https://github.com/felipetjmg1-bit/sentinela-brasil) — demonstração local FastAPI de governança de dados, controles de acesso, vault cifrado e gateway heurístico. Não é solução de produção.
+- [Oráculo X-37](https://github.com/felipetjmg1-bit/oraculo-x37) — API Python de classificação/regressão com dados sintéticos e ferramentas determinísticas via FastMCP.
+- [Canário Amarelo — Speckle](https://github.com/felipetjmg1-bit/canario-amarelo-versao-soberana) — função Speckle Automate para resumir objetos BIM e produzir relatórios, com análise OpenAI opcional.
+- [Sentinela das Águas](https://github.com/felipetjmg1-bit/sentinela-das-aguas) — proposta documental de monitoramento visual e alerta de enchentes; o repositório não contém implementação de aplicação.
+- [SQO](https://github.com/felipetjmg1-bit/SQO-Supercomputador-Quantico-Orbital) — proposta conceitual/documental, sem hardware orbital ou integrações implementadas.
 
-*   **Inteligência Artificial Soberana:** Desenvolvendo soluções de IA que respeitam a privacidade e os interesses nacionais.
-*   **Blockchain Estratégica:** Criando infraestruturas descentralizadas para segurança e transparência em ativos digitais (DREX).
-*   **Armazenamento 5D em Cristal de Quartzo:** Pioneirismo na tecnologia de armazenamento de dados ultra-seguro e durável, com capacidade milenar.
-*   **Defesa Cibernética Avançada:** Protegendo infraestruturas críticas e dados sensíveis contra ameaças emergentes.
+Consulte cada repositório para requisitos, maturidade, limitações, licença e instruções específicas. Não presuma validação independente, adoção institucional ou prontidão operacional a partir de materiais descritivos.
 
-## 💡 Projetos em Destaque
+## Como explorar
 
-Explore alguns dos nossos projetos mais inovadores:
+Este repositório de perfil não tem instalação ou comando de execução. Para usar um projeto, siga o `README.md` e o guia de contribuição do repositório correspondente.
 
-*   **[Cristal de Quartzo Aurora](https://github.com/felipetjmg1-bit/cristal-quartzo-aurora)**: A primeira infraestrutura brasileira de armazenamento óptico 5D, garantindo soberania e durabilidade para dados críticos. (v4.0 BR)
-*   **[EVA IA](https://github.com/felipetjmg1-bit/EVA-IA)**: A primeira IA brasileira com foco em segurança digital e análise preditiva.
-*   **[Aurora DREX](https://github.com/felipetjmg1-bit/AURO...)**: Arquitetura de Fragmentação de Processamento e Tokens de Ação para o DREX, validada tecnicamente.
-*   **[Oráculo X-37 Preditivo](https://github.com/felipetjmg1-bit/orac...)**: Sistema de previsão avançada para cenários complexos.
+## Contato
 
-## 🤝 Parcerias e Investimentos
+- E-mail: [impulsodigitalfinanceira@gmail.com](mailto:impulsodigitalfinanceira@gmail.com)
+- [LinkedIn — Felipe Marcos de Abreu Aquino](https://www.linkedin.com/in/felipe-marcos-de-abreu-aquino-a7b2b11b0/)
 
-Estamos abertos a colaborações estratégicas e investidores que compartilham da nossa visão de um futuro tecnológico soberano e seguro. Nosso projeto **Ecossistema Aurora XAI** foi reconhecido no **LIFT Lab 2026**, atestando nosso compromisso com a inovação e o impacto real.
+## Contribuições
 
-## ✉️ Conecte-se Conosco
+Leia [CONTRIBUTING.md](CONTRIBUTING.md). Abra issues no repositório do projeto pertinente e não publique credenciais, dados pessoais ou informação confidencial.
 
-Para mais informações, oportunidades de parceria ou para fazer parte desta revolução, entre em contato:
+## Licença
 
-*   **Email:** [impulsodigitalfinanceira@gmail.com](mailto:impulsodigitalfinanceira@gmail.com)
-*   **LinkedIn:** [Felipe Marcos de Abreu Aquino](https://www.linkedin.com/in/felipe-marcos-de-abreu-aquino-a7b2b11b0/)
+Este repositório de perfil está sob MIT; consulte [LICENSE](LICENSE). A licença deste repositório não altera os termos de outros projetos vinculados.
 
----
+## Patrocínio e apoio
 
-<div align="center">
-  <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663275657112/UxmgpyMsOgEewIPr.png" alt="Aurora Logo" width="150"/>
-  <p><em>Construindo um Brasil tecnologicamente forte, independente e soberano.</em></p>
-</div>
+Patrocínios ajudam a dedicar tempo à manutenção, documentação, testes e revisão dos projetos abertos. O apoio não garante funcionalidades, prazo ou suporte comercial.
+
+[![Patrocinar no GitHub Sponsors](https://img.shields.io/badge/Patrocinar%20no-GitHub%20Sponsors-ea4aaa?logo=githubsponsors)](https://github.com/sponsors/felipetjmg1-bit)
