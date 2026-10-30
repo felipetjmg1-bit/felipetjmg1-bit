@@ -2,6 +2,17 @@
 
 # Felipe Marcos de Abreu Aquino
 ### CEO & Founder at Impulso Digital Soluções em I.A.
+<div align="center">
+  <a href="./assets/ai-engineering-core.mp4">
+    <img
+      src="./assets/ai-engineering-core.gif"
+      alt="Mecanismo futurista de engenharia de IA com engrenagens digitais, circuitos e telemetria de código"
+      width="100%"
+    />
+  </a>
+  <br />
+  <sub>▶ Clique na animação para abrir o vídeo MP4 de 6 segundos</sub>
+</div>
 
 <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=4285F4&center=true&vCenter=true&width=900&height=50&lines=AI+Engineering;Deep+Tech;System+Architecture;Quantum+Storage;Sovereign+Cloud">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=4285F4&center=true&vCenter=true&width=900&height=50&lines=AI+Engineering;Deep+Tech;System+Architecture;Quantum+Storage;Sovereign+Cloud" alt="AI Engineering · Deep Tech · System Architecture · Quantum Storage · Sovereign Cloud" />
