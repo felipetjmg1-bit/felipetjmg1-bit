@@ -1,177 +1,102 @@
 <div align="center">
 
-# Felipe Marcos de Abreu Aquino
-### CEO & Founder at Impulso Digital Soluções em I.A.
-<div align="center">
-  <a href="./assets/ai-engineering-core.mp4">
-    <img
-      src="./assets/ai-engineering-core.gif"
-      alt="Mecanismo futurista de engenharia de IA com engrenagens digitais, circuitos e telemetria de código"
-      width="100%"
-    />
-  </a>
-  <br />
-  <sub>▶ Clique na animação para abrir o vídeo MP4 de 6 segundos</sub>
-</div>
+<img src="./github_banner.jpg" alt="Banner futurista em azul e ciano com uma rede digital em forma do Brasil" width="100%" />
 
-<a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=4285F4&center=true&vCenter=true&width=900&height=50&lines=AI+Engineering;Deep+Tech;System+Architecture;Quantum+Storage;Sovereign+Cloud">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=4285F4&center=true&vCenter=true&width=900&height=50&lines=AI+Engineering;Deep+Tech;System+Architecture;Quantum+Storage;Sovereign+Cloud" alt="AI Engineering · Deep Tech · System Architecture · Quantum Storage · Sovereign Cloud" />
+# Felipe Marcos de Abreu Aquino
+
+### Founder · Impulso Digital Soluções em I.A. · Brasil
+
+<a href="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=700&color=36D9F5&center=true&vCenter=true&width=820&height=44&lines=Open-Source+Engineering;AI+%26+Developer+Tools;Data+Governance+%26+Security;Brazilian+Digital+Sovereignty;Building+in+Public">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=700&color=36D9F5&center=true&vCenter=true&width=820&height=44&lines=Open-Source+Engineering;AI+%26+Developer+Tools;Data+Governance+%26+Security;Brazilian+Digital+Sovereignty;Building+in+Public" alt="Open-source engineering · AI and developer tools · Data governance and security · Brazilian digital sovereignty · Building in public" />
 </a>
 
 <br />
 
-<a href="https://github.com/sponsors/felipetjmg1-bit">
-  <img src="https://img.shields.io/badge/Sponsor%20my%20work-GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor Felipe on GitHub" />
-</a>
-<a href="mailto:impulsodigitalfinanceira@gmail.com">
-  <img src="https://img.shields.io/badge/Contact-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact by email" />
-</a>
-
-<br /><br />
-
-<img src="https://img.shields.io/badge/Location-Brasília%20%26%20MG%2C%20Brazil-4285F4?style=flat-square&logo=googlemaps&logoColor=white" alt="Brasília and Minas Gerais, Brazil" />
-<img src="https://img.shields.io/badge/Status-Open%20to%20sponsorship%20%26%20collaboration-34A853?style=flat-square" alt="Open to sponsorship and collaboration" />
-<a href="https://github.com/felipetjmg1-bit">
-  <img src="https://img.shields.io/badge/GitHub-felipetjmg1--bit-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" />
-</a>
+<a href="https://github.com/sponsors/felipetjmg1-bit"><img src="https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-DB61A2?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Apoie no GitHub Sponsors" /></a>
+<a href="https://impulsodig-4wzm9a4o.manus.space"><img src="https://img.shields.io/badge/Portfolio-Impulso%20Digital-0B1220?style=for-the-badge&logo=vercel&logoColor=36D9F5" alt="Portfólio Impulso Digital" /></a>
+<a href="mailto:impulsodigitalfinanceira@gmail.com"><img src="https://img.shields.io/badge/Contato-Email-0B1220?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Contato por e-mail" /></a>
 
 </div>
 
 ---
 
-## Executive Overview
+## Sobre / About
 
-I’m **Felipe Marcos de Abreu Aquino**, CEO and Founder of **Impulso Digital Soluções em I.A.** My work focuses on exploring and building at the intersection of **AI engineering, deep tech, system architecture, quantum storage, and sovereign cloud**.
+Sou **Felipe Marcos de Abreu Aquino**, fundador da **Impulso Digital**. Uso este perfil para documentar e desenvolver projetos abertos, protótipos e ferramentas nas áreas de **IA aplicada, ferramentas para desenvolvedores, governança de dados e soberania digital**.
 
-This profile is a home for initiatives, technical experiments, and open-source work. The goal is to develop useful technology, share knowledge with the community, and create a foundation for responsible innovation.
+My GitHub is a public workspace for open-source projects, practical prototypes, and engineering notes across **applied AI, developer tooling, data governance, and digital sovereignty**. I favor clear documentation, reproducible examples, and honest descriptions of project maturity.
 
-> **Mission:** support open-source AI innovation and deep-tech architecture by making ideas, tools, and engineering knowledge more accessible.
+> **Princípio / Principle:** progresso verificável, limites explícitos e tecnologia aberta para inspeção e colaboração.
 
-## Support Open-Source Innovation
+## Projetos em destaque / Featured work
 
-Your sponsorship helps make time for research, prototyping, documentation, maintenance, and community-focused development. Individuals help sustain the work; developers and organizations can help shape its direction through feedback and collaboration.
-
-<a href="https://github.com/sponsors/felipetjmg1-bit">
-  <img src="https://img.shields.io/badge/Become%20a%20Sponsor-Support%20open%20innovation-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Become a GitHub Sponsor" />
-</a>
-
-### Sponsorship tiers
-
-| Tier | For | Illustrative benefits |
+| Projeto | O que você encontra | Estado |
 |---|---|---|
-| **Individual Supporter** | Individuals who want to encourage open-source work | Recognition on the profile (opt-in), sponsor updates, and the satisfaction of supporting independent innovation |
-| **Developer Tier** | Developers who want to follow and contribute to the work | Developer-focused updates, opportunities to share feedback, and early access to selected public demos when available |
-| **Enterprise Partner** | Organizations interested in supporting open innovation and deep-tech exploration | Acknowledgment as a supporting organization (opt-in), opportunities to discuss alignment, and a channel for partnership inquiries |
+| [**Oráculo X-37**](https://github.com/felipetjmg1-bit/oraculo-x37) | API Python para classificação/regressão e ferramentas MCP determinísticas de análise explicável. | Projeto open source; consulte o README para requisitos e limitações. |
+| [**Sentinela Brasil**](https://github.com/felipetjmg1-bit/sentinela-brasil) | Demonstração local em FastAPI sobre governança de dados, controles de acesso e vault cifrado. | Demonstração/protótipo; não é uma solução pronta para produção. |
+| [**Projeto Ybyrá**](https://github.com/felipetjmg1-bit/projeto-ybyra) | Experimentos educacionais em Python com codificação inspirada em DNA, XAI simples, simulação clássica BB84 e provas Merkle. | Protótipo educacional; não é armazenamento biológico nem criptografia quântica real. |
+| [**Canário Amarelo — Speckle**](https://github.com/felipetjmg1-bit/canario-amarelo-versao-soberana) | Função Speckle Automate para resumir objetos BIM e produzir relatórios, com análise OpenAI opcional. | Ferramenta para fluxo Speckle; veja configuração e limites no repositório. |
 
-Benefits are illustrative and may vary by project, availability, and GitHub Sponsors settings. Sponsorship supports ongoing work and does not imply guaranteed delivery, consulting, or service-level commitments.
+[Explorar todos os repositórios →](https://github.com/felipetjmg1-bit?tab=repositories)
 
-## Initiatives & Ecosystem
-
-The following initiatives represent areas of work and exploration. Project-specific repositories, documentation, implementation details, and contribution guidelines will be linked here as they become available.
-
-| Initiative | Focus |
-|---|---|
-| **Oráculo X-37** | AI and deep-tech initiative |
-| **Canário Amarelo** | Technology initiative |
-| **Projeto Crystal** | Technology initiative |
-| **Aurora DREX** | Digital-finance initiative |
-| **Aurora ClimaX** | Climate-focused initiative |
-
-[Explore repositories on GitHub →](https://github.com/felipetjmg1-bit?tab=repositories)
-
-## Technology
+## Stack & temas
 
 <div align="center">
 
-**Languages & Systems**
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-
-**AI & Backend**
-
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-
-**Data & Web3**
-
-<img src="https://img.shields.io/badge/Web3-1C1C1C?style=for-the-badge&logo=web3.js&logoColor=F0B90B" alt="Web3" />
-<img src="https://img.shields.io/badge/Cassandra%20%2F%20CQL-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white" alt="Cassandra and CQL" />
+<img src="https://img.shields.io/badge/Python-0B1220?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+<img src="https://img.shields.io/badge/TypeScript-0B1220?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+<img src="https://img.shields.io/badge/FastAPI-0B1220?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI" />
+<img src="https://img.shields.io/badge/React-0B1220?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/MCP-0B1220?style=for-the-badge&logo=protocols.io&logoColor=36D9F5" alt="Model Context Protocol" />
+<img src="https://img.shields.io/badge/Open%20Source-0B1220?style=for-the-badge&logo=github&logoColor=white" alt="Open source" />
 
 </div>
 
-## GitHub Activity
+**Foco:** APIs e protótipos · integração de ferramentas · governança e rastreabilidade de dados · documentação e DX.
+
+## Como colaborar
+
+1. Escolha um projeto e leia seu `README.md`, licença e estado de maturidade.
+2. Abra uma issue pequena e específica para discutir bugs, melhorias ou documentação.
+3. Envie uma pull request com contexto, passos de teste e mudanças objetivas.
+4. Nunca inclua segredos, credenciais ou dados pessoais em issues e commits.
+
+Consulte o [guia de contribuição](CONTRIBUTING.md). Cada repositório pode ter requisitos e regras próprios.
+
+## Apoie o trabalho aberto
+
+Patrocínios ajudam a reservar tempo para manutenção, testes, documentação e evolução incremental do portfólio. O apoio sustenta o trabalho; não compra um produto pronto e não garante prazos, funcionalidades ou suporte individual.
 
 <div align="center">
 
-<a href="https://github.com/felipetjmg1-bit">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=felipetjmg1-bit&show_icons=true&hide_border=true&bg_color=0D1117&title_color=4285F4&text_color=E8EAED&icon_color=FBBC04&include_all_commits=true" alt="GitHub profile statistics" />
-</a>
-<a href="https://github.com/felipetjmg1-bit">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipetjmg1-bit&layout=compact&hide_border=true&bg_color=0D1117&title_color=4285F4&text_color=E8EAED&langs_count=8" alt="Most used programming languages" />
-</a>
-
-<br />
-
-<a href="https://github.com/felipetjmg1-bit">
-  <img src="https://streak-stats.demolab.com?user=felipetjmg1-bit&hide_border=true&background=0D1117&ring=34A853&fire=EA4335&currStreakLabel=4285F4&sideLabels=E8EAED&currStreakNum=E8EAED&sideNums=E8EAED&dates=9CA3AF" alt="GitHub contribution streak" />
-</a>
+<a href="https://github.com/sponsors/felipetjmg1-bit"><img src="https://img.shields.io/badge/Apoiar%20a%20continuidade-GitHub%20Sponsors-DB61A2?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Apoie a continuidade dos projetos no GitHub Sponsors" /></a>
 
 </div>
 
-## Connect
+## Atividade no GitHub
 
-For sponsorships, partnerships, and general inquiries:
+<div align="center">
 
-- **Email:** [impulsodigitalfinanceira@gmail.com](mailto:impulsodigitalfinanceira@gmail.com)
+<a href="https://github.com/felipetjmg1-bit"><img height="170" src="https://github-readme-stats.vercel.app/api?username=felipetjmg1-bit&show_icons=true&hide_border=true&bg_color=0B1220&title_color=36D9F5&text_color=E6EDF3&icon_color=8B5CF6&rank_icon=github" alt="Resumo de atividade GitHub" /></a>
+<a href="https://github.com/felipetjmg1-bit"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipetjmg1-bit&layout=compact&hide_border=true&bg_color=0B1220&title_color=36D9F5&text_color=E6EDF3&langs_count=6" alt="Linguagens mais usadas nos repositórios públicos" /></a>
+
+</div>
+
+## Conecte-se
+
 - **GitHub:** [@felipetjmg1-bit](https://github.com/felipetjmg1-bit)
-- **GitHub Sponsors:** [github.com/sponsors/felipetjmg1-bit](https://github.com/sponsors/felipetjmg1-bit)
+- **Portfólio:** [Impulso Digital](https://impulsodig-4wzm9a4o.manus.space)
+- **E-mail profissional:** [impulsodigitalfinanceira@gmail.com](mailto:impulsodigitalfinanceira@gmail.com)
+- **Patrocínio:** [GitHub Sponsors](https://github.com/sponsors/felipetjmg1-bit)
+- **LinkedIn:** [Felipe Marcos de Abreu Aquino](https://www.linkedin.com/in/felipe-marcos-de-abreu-aquino-a7b2b11b0/)
+
+---
 
 <div align="center">
 
-**Impulso Digital Soluções em I.A.**  
-*Building toward a more open, capable, and responsible deep-tech ecosystem.*
+**Impulso Digital · Open source · Brasil**
+*Construindo, documentando e validando ideias em público.*
+
+[MIT License](LICENSE) · [Contribuir](CONTRIBUTING.md) · [GitHub Sponsors](https://github.com/sponsors/felipetjmg1-bit)
 
 </div>
-![Status: Perfil e documentação](https://img.shields.io/badge/Status-Perfil%20e%20documenta%C3%A7%C3%A3o-blue) | [![Licença MIT](https://img.shields.io/github/license/felipetjmg1-bit/felipetjmg1-bit)](LICENSE) | [![Patrocinar](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?logo=githubsponsors)](https://github.com/sponsors/felipetjmg1-bit)
-
-# Felipe Marcos de Abreu Aquino
-
-Perfil e portfólio de projetos publicados sob a conta `@felipetjmg1-bit`. Este repositório é documental: não contém uma aplicação executável, API ou pacote de software. As descrições abaixo distinguem código e demonstrações observáveis de propostas e objetivos futuros.
-
-## Projetos em destaque
-
-- [Projeto Ybyrá](https://github.com/felipetjmg1-bit/projeto-ybyra) — protótipo educacional em Python com codificação digital inspirada em DNA, XAI simples, simulação clássica BB84 e provas de inclusão Merkle.
-- [Sentinela Brasil](https://github.com/felipetjmg1-bit/sentinela-brasil) — demonstração local FastAPI de governança de dados, controles de acesso, vault cifrado e gateway heurístico. Não é solução de produção.
-- [Oráculo X-37](https://github.com/felipetjmg1-bit/oraculo-x37) — API Python de classificação/regressão com dados sintéticos e ferramentas determinísticas via FastMCP.
-- [Canário Amarelo — Speckle](https://github.com/felipetjmg1-bit/canario-amarelo-versao-soberana) — função Speckle Automate para resumir objetos BIM e produzir relatórios, com análise OpenAI opcional.
-- [Sentinela das Águas](https://github.com/felipetjmg1-bit/sentinela-das-aguas) — proposta documental de monitoramento visual e alerta de enchentes; o repositório não contém implementação de aplicação.
-- [SQO](https://github.com/felipetjmg1-bit/SQO-Supercomputador-Quantico-Orbital) — proposta conceitual/documental, sem hardware orbital ou integrações implementadas.
-
-Consulte cada repositório para requisitos, maturidade, limitações, licença e instruções específicas. Não presuma validação independente, adoção institucional ou prontidão operacional a partir de materiais descritivos.
-
-## Como explorar
-
-Este repositório de perfil não tem instalação ou comando de execução. Para usar um projeto, siga o `README.md` e o guia de contribuição do repositório correspondente.
-
-## Contato
-
-- E-mail: [impulsodigitalfinanceira@gmail.com](mailto:impulsodigitalfinanceira@gmail.com)
-- [LinkedIn — Felipe Marcos de Abreu Aquino](https://www.linkedin.com/in/felipe-marcos-de-abreu-aquino-a7b2b11b0/)
-
-## Contribuições
-
-Leia [CONTRIBUTING.md](CONTRIBUTING.md). Abra issues no repositório do projeto pertinente e não publique credenciais, dados pessoais ou informação confidencial.
-
-## Licença
-
-Este repositório de perfil está sob MIT; consulte [LICENSE](LICENSE). A licença deste repositório não altera os termos de outros projetos vinculados.
-
-## Patrocínio e apoio
-
-Patrocínios ajudam a dedicar tempo à manutenção, documentação, testes e revisão dos projetos abertos. O apoio não garante funcionalidades, prazo ou suporte comercial.
-
-[![Patrocinar no GitHub Sponsors](https://img.shields.io/badge/Patrocinar%20no-GitHub%20Sponsors-ea4aaa?logo=githubsponsors)](https://github.com/sponsors/felipetjmg1-bit)
