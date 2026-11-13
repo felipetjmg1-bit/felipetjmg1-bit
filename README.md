@@ -1,102 +1,83 @@
 <div align="center">
 
-<img src="./github_banner.jpg" alt="Banner futurista em azul e ciano com uma rede digital em forma do Brasil" width="100%" />
+<img src="./github_banner.jpg" alt="Mapa do Brasil conectado por uma rede digital em tons de azul e ciano" width="100%" />
 
 # Felipe Marcos de Abreu Aquino
 
-### Founder · Impulso Digital Soluções em I.A. · Brasil
+### Fundador da Impulso Digital · Prototipagem em Python e IA aplicada · Brasil
 
-<a href="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=700&color=36D9F5&center=true&vCenter=true&width=820&height=44&lines=Open-Source+Engineering;AI+%26+Developer+Tools;Data+Governance+%26+Security;Brazilian+Digital+Sovereignty;Building+in+Public">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=700&color=36D9F5&center=true&vCenter=true&width=820&height=44&lines=Open-Source+Engineering;AI+%26+Developer+Tools;Data+Governance+%26+Security;Brazilian+Digital+Sovereignty;Building+in+Public" alt="Open-source engineering · AI and developer tools · Data governance and security · Brazilian digital sovereignty · Building in public" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=18&amp;duration=2400&amp;pause=750&amp;color=36D9F5&amp;center=true&amp;vCenter=true&amp;width=820&amp;height=45&amp;lines=Prototipagem+em+IA+aplicada;Python+%26+OpenAI;Integra%C3%A7%C3%B5es+com+Speckle;Estudando+FastAPI%2C+MCP+e+Gradio;Construindo+em+p%C3%BAblico" alt="Animação: prototipagem em IA aplicada, Python e OpenAI, integrações com Speckle, estudo de FastAPI, MCP e Gradio, construindo em público" />
 
-<br />
-
-<a href="https://github.com/sponsors/felipetjmg1-bit"><img src="https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-DB61A2?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Apoie no GitHub Sponsors" /></a>
-<a href="https://impulsodig-4wzm9a4o.manus.space"><img src="https://img.shields.io/badge/Portfolio-Impulso%20Digital-0B1220?style=for-the-badge&logo=vercel&logoColor=36D9F5" alt="Portfólio Impulso Digital" /></a>
-<a href="mailto:impulsodigitalfinanceira@gmail.com"><img src="https://img.shields.io/badge/Contato-Email-0B1220?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Contato por e-mail" /></a>
+<p>
+  <a href="https://impulsodig-4wzm9a4o.manus.space"><img src="https://img.shields.io/badge/Portf%C3%B3lio-Impulso%20Digital-0B1220?style=for-the-badge&amp;logo=vercel&amp;logoColor=36D9F5" alt="Portfólio Impulso Digital" /></a>
+  <a href="mailto:impulsodigitalfinanceira@gmail.com"><img src="https://img.shields.io/badge/Contato-E--mail-0B1220?style=for-the-badge&amp;logo=gmail&amp;logoColor=EA4335" alt="Contato por e-mail" /></a>
+  <a href="https://github.com/sponsors/felipetjmg1-bit"><img src="https://img.shields.io/badge/Apoiar-GitHub%20Sponsors-DB61A2?style=for-the-badge&amp;logo=githubsponsors&amp;logoColor=white" alt="Apoiar no GitHub Sponsors" /></a>
+</p>
 
 </div>
 
 ---
 
-## Sobre / About
+## Sobre
 
-Sou **Felipe Marcos de Abreu Aquino**, fundador da **Impulso Digital**. Uso este perfil para documentar e desenvolver projetos abertos, protótipos e ferramentas nas áreas de **IA aplicada, ferramentas para desenvolvedores, governança de dados e soberania digital**.
+Sou **Felipe Marcos de Abreu Aquino**, fundador da **Impulso Digital**. Este perfil reúne projetos abertos, protótipos e estudos práticos em **Python, IA aplicada, ferramentas para desenvolvedores e fluxos de dados**.
 
-My GitHub is a public workspace for open-source projects, practical prototypes, and engineering notes across **applied AI, developer tooling, data governance, and digital sovereignty**. I favor clear documentation, reproducible examples, and honest descriptions of project maturity.
+Tenho experiência prática construindo e documentando protótipos. No momento, exploro integrações com **OpenAI**, **Speckle Automate**, **FastAPI**, **MCP** e **Gradio**, priorizando exemplos compreensíveis, escopo claro e limites explícitos.
 
-> **Princípio / Principle:** progresso verificável, limites explícitos e tecnologia aberta para inspeção e colaboração.
+> **Maturidade:** os projetos são experimentais, em geral de nível inicial a intermediário. Não representam tecnologia proprietária disruptiva, certificação ou validação comercial consolidada. Cada repositório documenta seu estado e limitações; resultados de demonstração não devem ser tratados como validação independente.
 
-## Projetos em destaque / Featured work
+## Projetos em destaque
 
-| Projeto | O que você encontra | Estado |
+| Projeto | Escopo | Maturidade |
 |---|---|---|
-| [**Oráculo X-37**](https://github.com/felipetjmg1-bit/oraculo-x37) | API Python para classificação/regressão e ferramentas MCP determinísticas de análise explicável. | Projeto open source; consulte o README para requisitos e limitações. |
-| [**Sentinela Brasil**](https://github.com/felipetjmg1-bit/sentinela-brasil) | Demonstração local em FastAPI sobre governança de dados, controles de acesso e vault cifrado. | Demonstração/protótipo; não é uma solução pronta para produção. |
-| [**Projeto Ybyrá**](https://github.com/felipetjmg1-bit/projeto-ybyra) | Experimentos educacionais em Python com codificação inspirada em DNA, XAI simples, simulação clássica BB84 e provas Merkle. | Protótipo educacional; não é armazenamento biológico nem criptografia quântica real. |
-| [**Canário Amarelo — Speckle**](https://github.com/felipetjmg1-bit/canario-amarelo-versao-soberana) | Função Speckle Automate para resumir objetos BIM e produzir relatórios, com análise OpenAI opcional. | Ferramenta para fluxo Speckle; veja configuração e limites no repositório. |
+| [**Oráculo X-37 — API e MCP**](https://github.com/felipetjmg1-bit/oraculo-x37) | API Python com experimentos de classificação/regressão e ferramentas determinísticas via MCP. | Protótipo experimental; consulte o README para requisitos e limitações. |
+| [**Oráculo X-37 — BIM/Speckle**](https://github.com/felipetjmg1-bit/ORACULOX37-V-3.6.9) | Função Speckle Automate com contagens heurísticas de objetos BIM, relatórios e comentário OpenAI opcional. | Protótipo; não é avaliação de engenharia nem certificação. |
+| [**Sentinela Brasil**](https://github.com/felipetjmg1-bit/sentinela-brasil) | Demonstração local em FastAPI sobre governança de dados, controles de acesso e gateway de IA simulado. | Demonstração; não é produto pronto para produção. |
+| [**Projeto Ybyrá**](https://github.com/felipetjmg1-bit/projeto-ybyra) | Protótipo educacional em Python com codificação inspirada em DNA, simulação clássica BB84 e provas Merkle. | Educacional; não é armazenamento biológico nem criptografia quântica real. |
 
-[Explorar todos os repositórios →](https://github.com/felipetjmg1-bit?tab=repositories)
+[Explorar todos os repositórios](https://github.com/felipetjmg1-bit?tab=repositories)
 
-## Stack & temas
+## Tecnologias e temas
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&amp;logo=openai&amp;logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Speckle-2D5BE3?style=flat-square&amp;logoColor=white" alt="Speckle" />
+  <img src="https://img.shields.io/badge/MCP-em%20estudo-6B7280?style=flat-square" alt="MCP em estudo" />
+  <img src="https://img.shields.io/badge/Gradio-em%20estudo-6B7280?style=flat-square" alt="Gradio em estudo" />
+</p>
 
-<img src="https://img.shields.io/badge/Python-0B1220?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
-<img src="https://img.shields.io/badge/TypeScript-0B1220?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-<img src="https://img.shields.io/badge/FastAPI-0B1220?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI" />
-<img src="https://img.shields.io/badge/React-0B1220?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/MCP-0B1220?style=for-the-badge&logo=protocols.io&logoColor=36D9F5" alt="Model Context Protocol" />
-<img src="https://img.shields.io/badge/Open%20Source-0B1220?style=for-the-badge&logo=github&logoColor=white" alt="Open source" />
+- **Em protótipos:** Python, integração com APIs, Speckle Automate e uso opcional de modelos de linguagem.
+- **Em exploração:** FastAPI, MCP, Gradio, governança de dados e ferramentas para desenvolvedores.
 
-</div>
+## Como trabalho
 
-**Foco:** APIs e protótipos · integração de ferramentas · governança e rastreabilidade de dados · documentação e DX.
+- Descrevo o que está implementado e separo protótipos, simulações e planos futuros.
+- Prefiro documentação objetiva, exemplos reproduzíveis e testes proporcionais ao escopo.
+- Recebo contribuições por issues e pull requests com contexto e validações realizadas.
 
-## Como colaborar
+Consulte o `README.md`, a licença e o estado de maturidade de cada projeto antes de reutilizar código ou resultados. Não publique credenciais, dados pessoais ou informações confidenciais em issues e commits.
 
-1. Escolha um projeto e leia seu `README.md`, licença e estado de maturidade.
-2. Abra uma issue pequena e específica para discutir bugs, melhorias ou documentação.
-3. Envie uma pull request com contexto, passos de teste e mudanças objetivas.
-4. Nunca inclua segredos, credenciais ou dados pessoais em issues e commits.
-
-Consulte o [guia de contribuição](CONTRIBUTING.md). Cada repositório pode ter requisitos e regras próprios.
-
-## Apoie o trabalho aberto
-
-Patrocínios ajudam a reservar tempo para manutenção, testes, documentação e evolução incremental do portfólio. O apoio sustenta o trabalho; não compra um produto pronto e não garante prazos, funcionalidades ou suporte individual.
-
-<div align="center">
-
-<a href="https://github.com/sponsors/felipetjmg1-bit"><img src="https://img.shields.io/badge/Apoiar%20a%20continuidade-GitHub%20Sponsors-DB61A2?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Apoie a continuidade dos projetos no GitHub Sponsors" /></a>
-
-</div>
-
-## Atividade no GitHub
-
-<div align="center">
-
-<a href="https://github.com/felipetjmg1-bit"><img height="170" src="https://github-readme-stats.vercel.app/api?username=felipetjmg1-bit&show_icons=true&hide_border=true&bg_color=0B1220&title_color=36D9F5&text_color=E6EDF3&icon_color=8B5CF6&rank_icon=github" alt="Resumo de atividade GitHub" /></a>
-<a href="https://github.com/felipetjmg1-bit"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipetjmg1-bit&layout=compact&hide_border=true&bg_color=0B1220&title_color=36D9F5&text_color=E6EDF3&langs_count=6" alt="Linguagens mais usadas nos repositórios públicos" /></a>
-
-</div>
-
-## Conecte-se
+## Contato e colaboração
 
 - **GitHub:** [@felipetjmg1-bit](https://github.com/felipetjmg1-bit)
 - **Portfólio:** [Impulso Digital](https://impulsodig-4wzm9a4o.manus.space)
-- **E-mail profissional:** [impulsodigitalfinanceira@gmail.com](mailto:impulsodigitalfinanceira@gmail.com)
-- **Patrocínio:** [GitHub Sponsors](https://github.com/sponsors/felipetjmg1-bit)
+- **E-mail:** [impulsodigitalfinanceira@gmail.com](mailto:impulsodigitalfinanceira@gmail.com)
 - **LinkedIn:** [Felipe Marcos de Abreu Aquino](https://www.linkedin.com/in/felipe-marcos-de-abreu-aquino-a7b2b11b0/)
+- **GitHub Sponsors:** [Apoiar manutenção e documentação](https://github.com/sponsors/felipetjmg1-bit)
+
+## English summary
+
+Founder of **Impulso Digital** and builder of experimental Python and applied-AI prototypes. This profile highlights practical work with OpenAI APIs and Speckle Automate, alongside ongoing exploration of FastAPI, MCP and Gradio. Projects are early-stage, documented transparently, and are not presented as commercially validated products.
 
 ---
 
 <div align="center">
 
-**Impulso Digital · Open source · Brasil**
-*Construindo, documentando e validando ideias em público.*
+**Impulso Digital · Open source · Brasil**<br />
+*Construindo, documentando e aprendendo em público.*
 
-[MIT License](LICENSE) · [Contribuir](CONTRIBUTING.md) · [GitHub Sponsors](https://github.com/sponsors/felipetjmg1-bit)
+[Licença](LICENSE) · [Contribuir](CONTRIBUTING.md) · [GitHub Sponsors](https://github.com/sponsors/felipetjmg1-bit)
 
 </div>
