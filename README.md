@@ -1,15 +1,19 @@
 <div align="center">
 
-<img src="./github_banner.jpg" alt="Mapa do Brasil conectado por uma rede digital em tons de azul e ciano" width="100%" />
+<a href="./media/profile-intro.mp4" title="Assistir à apresentação em vídeo">
+  <img src="./media/profile-intro-preview.gif" alt="Animação tecnológica de uma rede digital conectando o Brasil em tons de azul e ciano" width="100%" />
+</a>
+
+<sub><a href="./media/profile-intro.mp4">▶ Assistir à apresentação completa (MP4)</a> · <a href="./github_banner.jpg">Ver faixa estática</a></sub>
 
 # Felipe Marcos de Abreu Aquino
 
-### Fundador da Impulso Digital · Prototipagem em Python e IA aplicada · Brasil
+### Fundador da Impulso Digital · IA aplicada e protótipos em blockchain/TON · Brasil
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=18&amp;duration=2400&amp;pause=750&amp;color=36D9F5&amp;center=true&amp;vCenter=true&amp;width=820&amp;height=45&amp;lines=Prototipagem+em+IA+aplicada;Python+%26+OpenAI;Integra%C3%A7%C3%B5es+com+Speckle;Estudando+FastAPI%2C+MCP+e+Gradio;Construindo+em+p%C3%BAblico" alt="Animação: prototipagem em IA aplicada, Python e OpenAI, integrações com Speckle, estudo de FastAPI, MCP e Gradio, construindo em público" />
 
 <p>
-  <a href="https://impulsodig-4wzm9a4o.manus.space"><img src="https://img.shields.io/badge/Portf%C3%B3lio-Impulso%20Digital-0B1220?style=for-the-badge&amp;logo=vercel&amp;logoColor=36D9F5" alt="Portfólio Impulso Digital" /></a>
+  <a href="https://github.com/felipetjmg1-bit?tab=repositories"><img src="https://img.shields.io/badge/Projetos-P%C3%BAblicos-0B1220?style=for-the-badge&amp;logo=github&amp;logoColor=36D9F5" alt="Repositórios públicos do GitHub" /></a>
   <a href="mailto:impulsodigitalfinanceira@gmail.com"><img src="https://img.shields.io/badge/Contato-E--mail-0B1220?style=for-the-badge&amp;logo=gmail&amp;logoColor=EA4335" alt="Contato por e-mail" /></a>
   <a href="https://github.com/sponsors/felipetjmg1-bit"><img src="https://img.shields.io/badge/Apoiar-GitHub%20Sponsors-DB61A2?style=for-the-badge&amp;logo=githubsponsors&amp;logoColor=white" alt="Apoiar no GitHub Sponsors" /></a>
 </p>
@@ -20,9 +24,9 @@
 
 ## Sobre
 
-Sou **Felipe Marcos de Abreu Aquino**, fundador da **Impulso Digital**. Este perfil reúne projetos abertos, protótipos e estudos práticos em **Python, IA aplicada, ferramentas para desenvolvedores e fluxos de dados**.
+Sou **Felipe Marcos de Abreu Aquino**, fundador da **Impulso Digital**. Este perfil reúne projetos abertos, protótipos e estudos práticos em **Python, IA aplicada, ferramentas para desenvolvedores, governança de dados e blockchain**.
 
-Tenho experiência prática construindo e documentando protótipos. No momento, exploro integrações com **OpenAI**, **Speckle Automate**, **FastAPI**, **MCP** e **Gradio**, priorizando exemplos compreensíveis, escopo claro e limites explícitos.
+Tenho experiência prática construindo e documentando protótipos. No momento, exploro integrações com **OpenAI**, **Speckle Automate**, **FastAPI**, **MCP**, **Gradio** e o ecossistema **TON**, priorizando exemplos compreensíveis, escopo claro e limites explícitos.
 
 > **Maturidade:** os projetos são experimentais, em geral de nível inicial a intermediário. Não representam tecnologia proprietária disruptiva, certificação ou validação comercial consolidada. Cada repositório documenta seu estado e limitações; resultados de demonstração não devem ser tratados como validação independente.
 
@@ -49,7 +53,7 @@ Tenho experiência prática construindo e documentando protótipos. No momento, 
 </p>
 
 - **Em protótipos:** Python, integração com APIs, Speckle Automate e uso opcional de modelos de linguagem.
-- **Em exploração:** FastAPI, MCP, Gradio, governança de dados e ferramentas para desenvolvedores.
+- **Em exploração:** FastAPI, MCP, Gradio, governança de dados, ferramentas para desenvolvedores e blockchain/TON.
 
 ## Como trabalho
 
@@ -62,14 +66,14 @@ Consulte o `README.md`, a licença e o estado de maturidade de cada projeto ante
 ## Contato e colaboração
 
 - **GitHub:** [@felipetjmg1-bit](https://github.com/felipetjmg1-bit)
-- **Portfólio:** [Impulso Digital](https://impulsodig-4wzm9a4o.manus.space)
+- **Projetos:** [Todos os repositórios públicos](https://github.com/felipetjmg1-bit?tab=repositories)
 - **E-mail:** [impulsodigitalfinanceira@gmail.com](mailto:impulsodigitalfinanceira@gmail.com)
 - **LinkedIn:** [Felipe Marcos de Abreu Aquino](https://www.linkedin.com/in/felipe-marcos-de-abreu-aquino-a7b2b11b0/)
 - **GitHub Sponsors:** [Apoiar manutenção e documentação](https://github.com/sponsors/felipetjmg1-bit)
 
 ## English summary
 
-Founder of **Impulso Digital** and builder of experimental Python and applied-AI prototypes. This profile highlights practical work with OpenAI APIs and Speckle Automate, alongside ongoing exploration of FastAPI, MCP and Gradio. Projects are early-stage, documented transparently, and are not presented as commercially validated products.
+Founder of **Impulso Digital** and builder of experimental Python and applied-AI prototypes. This profile highlights practical work with OpenAI APIs and Speckle Automate, alongside ongoing exploration of FastAPI, MCP, Gradio and the TON/blockchain ecosystem. Projects are early-stage, documented transparently, and are not presented as commercially validated products.
 
 ---
 
