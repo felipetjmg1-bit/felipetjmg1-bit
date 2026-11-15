@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="assets/profile-neon-robot.jpg" alt="Robô futurista com circuitos neon em uma paisagem de inteligência artificial soberana" width="100%" />
+  <a href="assets/robot-brasil-neon.mp4" title="Assistir à versão em vídeo do banner">
+    <img src="assets/robot-brasil-neon.gif" alt="Robô futurista em animação neon verde, amarelo e azul com efeitos de energia" width="100%" />
+  </a><br />
+  <sub>▶ <a href="assets/robot-brasil-neon.mp4">Assistir ao banner em vídeo (MP4 · 5 s)</a></sub>
 
   <h1>Felipe Marcos de Abreu Aquino</h1>
   <h3>CEO &amp; AI Systems Architect @ Impulso Digital Soluções em I.A. Ltda. · MLCommons Contributor</h3>
