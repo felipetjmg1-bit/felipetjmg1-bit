@@ -1,87 +1,111 @@
 <div align="center">
+  <img src="assets/profile-neon-robot.jpg" alt="Robô futurista com circuitos neon em uma paisagem de inteligência artificial soberana" width="100%" />
 
-<a href="./media/profile-intro.mp4" title="Assistir à apresentação em vídeo">
-  <img src="./media/profile-intro-preview.gif" alt="Animação tecnológica de uma rede digital conectando o Brasil em tons de azul e ciano" width="100%" />
-</a>
+  <h1>Felipe Marcos de Abreu Aquino</h1>
+  <h3>CEO &amp; AI Systems Architect @ Impulso Digital Soluções em I.A. Ltda. · MLCommons Contributor</h3>
+  <p><strong>Sovereign Deep Tech &amp; Explainable AI (XAI) Architecture</strong></p>
 
-<sub><a href="./media/profile-intro.mp4">▶ Assistir à apresentação completa (MP4)</a> · <a href="./github_banner.jpg">Ver faixa estática</a></sub>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=18&amp;duration=2500&amp;pause=700&amp;color=00F5FF&amp;center=true&amp;vCenter=true&amp;width=900&amp;height=48&amp;lines=Intelig%C3%AAncia+artificial+soberana;Sistemas+multimodais+%26+Edge+AI;XAI+%2B+auditoria+verific%C3%A1vel;Engenharia+para+infraestruturas+de+confian%C3%A7a" alt="Animação de texto: IA soberana, sistemas multimodais e Edge AI, XAI e auditoria verificável" />
 
-# Felipe Marcos de Abreu Aquino
-
-### Fundador da Impulso Digital · IA aplicada e protótipos em blockchain/TON · Brasil
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=18&amp;duration=2400&amp;pause=750&amp;color=36D9F5&amp;center=true&amp;vCenter=true&amp;width=820&amp;height=45&amp;lines=Prototipagem+em+IA+aplicada;Python+%26+OpenAI;Integra%C3%A7%C3%B5es+com+Speckle;Estudando+FastAPI%2C+MCP+e+Gradio;Construindo+em+p%C3%BAblico" alt="Animação: prototipagem em IA aplicada, Python e OpenAI, integrações com Speckle, estudo de FastAPI, MCP e Gradio, construindo em público" />
-
-<p>
-  <a href="https://github.com/felipetjmg1-bit?tab=repositories"><img src="https://img.shields.io/badge/Projetos-P%C3%BAblicos-0B1220?style=for-the-badge&amp;logo=github&amp;logoColor=36D9F5" alt="Repositórios públicos do GitHub" /></a>
-  <a href="mailto:impulsodigitalfinanceira@gmail.com"><img src="https://img.shields.io/badge/Contato-E--mail-0B1220?style=for-the-badge&amp;logo=gmail&amp;logoColor=EA4335" alt="Contato por e-mail" /></a>
-  <a href="https://github.com/sponsors/felipetjmg1-bit"><img src="https://img.shields.io/badge/Apoiar-GitHub%20Sponsors-DB61A2?style=for-the-badge&amp;logo=githubsponsors&amp;logoColor=white" alt="Apoiar no GitHub Sponsors" /></a>
-</p>
-
+  <p>
+    <a href="https://github.com/felipetjmg1-bit?tab=repositories"><img src="https://img.shields.io/badge/REPOSIT%C3%93RIOS-0B1220?style=for-the-badge&amp;logo=github&amp;logoColor=00F5FF" alt="Repositórios públicos" /></a>
+    <a href="https://mlcommons.org/"><img src="https://img.shields.io/badge/MLCommons-Contributor-0B1220?style=for-the-badge&amp;logoColor=white" alt="MLCommons Contributor" /></a>
+    <img src="https://img.shields.io/badge/LOCALIZA%C3%87%C3%83O-Concei%C3%A7%C3%A3o%20do%20Mato%20Dentro%2C%20MG-0B1220?style=for-the-badge&amp;logo=googlemaps&amp;logoColor=00F5FF" alt="Conceição do Mato Dentro, Minas Gerais, Brasil" />
+  </p>
 </div>
 
 ---
 
-## Sobre
+## Arquitetura de inteligência soberana
 
-Sou **Felipe Marcos de Abreu Aquino**, fundador da **Impulso Digital**. Este perfil reúne projetos abertos, protótipos e estudos práticos em **Python, IA aplicada, ferramentas para desenvolvedores, governança de dados e blockchain**.
+Desenvolvo e exploro arquiteturas de **inteligência artificial multimodal soberana**, **Explainable AI (XAI)**, auditorias técnicas com mecanismos criptográficos — incluindo **Zero-Knowledge (ZK)** — e ecossistemas financeiros digitais, com interesse em **CBDCs e DREX**. O foco é combinar transparência, rastreabilidade, execução local/edge e controle sobre dados e infraestrutura.
 
-Tenho experiência prática construindo e documentando protótipos. No momento, exploro integrações com **OpenAI**, **Speckle Automate**, **FastAPI**, **MCP**, **Gradio** e o ecossistema **TON**, priorizando exemplos compreensíveis, escopo claro e limites explícitos.
+> **Princípio de engenharia:** diferenciar claramente código implementado, protótipo, simulação e pesquisa. Os repositórios descrevem seus próprios escopos e limitações; menções a DREX/CBDC não implicam parceria, integração oficial ou produção institucional.
 
-> **Maturidade:** os projetos são experimentais, em geral de nível inicial a intermediário. Não representam tecnologia proprietária disruptiva, certificação ou validação comercial consolidada. Cada repositório documenta seu estado e limitações; resultados de demonstração não devem ser tratados como validação independente.
+**Localização:** Conceição do Mato Dentro, Minas Gerais, Brasil<br />
+**Organização:** Impulso Digital Soluções em I.A. Ltda.<br />
+**Atuação:** Sovereign Deep Tech · XAI · Edge AI · auditoria verificável
 
-## Projetos em destaque
+## Pilares tecnológicos
 
-| Projeto | Escopo | Maturidade |
-|---|---|---|
-| [**Oráculo X-37 — API e MCP**](https://github.com/felipetjmg1-bit/oraculo-x37) | API Python com experimentos de classificação/regressão e ferramentas determinísticas via MCP. | Protótipo experimental; consulte o README para requisitos e limitações. |
-| [**Oráculo X-37 — BIM/Speckle**](https://github.com/felipetjmg1-bit/ORACULOX37-V-3.6.9) | Função Speckle Automate com contagens heurísticas de objetos BIM, relatórios e comentário OpenAI opcional. | Protótipo; não é avaliação de engenharia nem certificação. |
-| [**Sentinela Brasil**](https://github.com/felipetjmg1-bit/sentinela-brasil) | Demonstração local em FastAPI sobre governança de dados, controles de acesso e gateway de IA simulado. | Demonstração; não é produto pronto para produção. |
-| [**Projeto Ybyrá**](https://github.com/felipetjmg1-bit/projeto-ybyra) | Protótipo educacional em Python com codificação inspirada em DNA, simulação clássica BB84 e provas Merkle. | Educacional; não é armazenamento biológico nem criptografia quântica real. |
+### 01 · Sovereign Multimodal AI & Edge Systems
 
-[Explorar todos os repositórios](https://github.com/felipetjmg1-bit?tab=repositories)
+IA multimodal projetada com atenção à soberania de dados, implantação distribuída e execução em edge. O **Canário Soberano** representa a frente de auditoria técnica local; contribuições e participação na comunidade MLCommons fazem parte do ecossistema profissional.
 
-## Tecnologias e temas
+- [Canário Soberano X](https://github.com/felipetjmg1-bit/canario-soberano-x) — repositório público relacionado à frente Canário.
+- [Canário — implementação pública de auditoria BIM/Speckle](https://github.com/felipetjmg1-bit/canario-amarelo-versao-soberana) — função de automação com regras locais, relatórios e análise opcional via API.
+- [Aurora GeoIntelligence XAI](https://github.com/felipetjmg1-bit/aurora-geointelligence-xai) — inteligência geoespacial, sensoriamento remoto e explicabilidade.
+- [MLCommons](https://mlcommons.org/) — comunidade e iniciativas abertas de avaliação e engenharia de sistemas de IA.
+
+### 02 · Explainable & Auditable Infrastructure · XAI + ZK
+
+Sistemas em que explicações, evidências e trilhas de auditoria são parte do desenho — não um adendo. A linha **ZK-XAI 4.0 Industrial** explora como combinar explicabilidade com provas criptográficas para auditorias verificáveis, preservando a distinção entre pesquisa e implementação validada.
+
+- [Oráculo X-37](https://github.com/felipetjmg1-bit/oraculo-x37) — API de classificação/regressão e ferramentas determinísticas de análise explicável via MCP.
+- [Oráculo X-37 · BIM/Speckle](https://github.com/felipetjmg1-bit/ORACULOX37-V-3.6.9) — verificações heurísticas de objetos BIM e geração de relatórios.
+- [aurora-geointelligence-xai](https://github.com/felipetjmg1-bit/aurora-geointelligence-xai) — explicabilidade aplicada a inteligência geoespacial.
+- **ZK-XAI 4.0 Industrial:** frente de arquitetura/pesquisa; não há repositório público com esse nome disponível no perfil neste momento.
+
+### 03 · GovTech & Financial Ecosystems
+
+Arquiteturas de GovTech e finanças digitais com ênfase em interoperabilidade, transparência e governança. A frente **Aurora DREX** explora conceitos para ecossistemas de moedas digitais de bancos centrais e serviços públicos digitais.
+
+- **Aurora DREX:** iniciativa de arquitetura; ainda sem repositório público dedicado encontrado no perfil. A menção não indica integração oficial com o Banco Central ou participação no piloto do DREX.
+- [Sentinela Brasil](https://github.com/felipetjmg1-bit/sentinela-brasil) — demonstração local de governança de dados, controles de acesso e gateway de IA simulado.
+- [Projeto Ybyrá](https://github.com/felipetjmg1-bit/projeto-ybyra) — protótipo educacional com XAI simples, simulação clássica BB84 e provas Merkle; não é criptografia quântica real.
+
+## Tecnologias em foco
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&amp;logo=openai&amp;logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Speckle-2D5BE3?style=flat-square&amp;logoColor=white" alt="Speckle" />
-  <img src="https://img.shields.io/badge/MCP-em%20estudo-6B7280?style=flat-square" alt="MCP em estudo" />
-  <img src="https://img.shields.io/badge/Gradio-em%20estudo-6B7280?style=flat-square" alt="Gradio em estudo" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" alt="C plus plus" />
+  <img src="https://img.shields.io/badge/Zero--Knowledge%20Proofs-7B61FF?style=for-the-badge&amp;logoColor=white" alt="Zero-Knowledge Proofs" />
+  <img src="https://img.shields.io/badge/Smart%20Contracts-5B4BDB?style=for-the-badge&amp;logo=ethereum&amp;logoColor=white" alt="Smart Contracts" />
+  <img src="https://img.shields.io/badge/Edge%20AI-00BFA6?style=for-the-badge&amp;logoColor=white" alt="Edge AI" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&amp;logo=huggingface&amp;logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
 </p>
 
-- **Em protótipos:** Python, integração com APIs, Speckle Automate e uso opcional de modelos de linguagem.
-- **Em exploração:** FastAPI, MCP, Gradio, governança de dados, ferramentas para desenvolvedores e blockchain/TON.
+*Badges indicam áreas de foco do portfólio, não certificações ou garantia de uso em produção em todos os projetos.*
+
+## Repositórios em destaque
+
+| Projeto | Pilar | Repositório |
+|---|---|---|
+| **Aurora GeoIntelligence XAI** | IA multimodal · geoespacial · XAI | [Abrir repositório](https://github.com/felipetjmg1-bit/aurora-geointelligence-xai) |
+| **Canário Soberano X** | Edge · IA soberana | [Abrir repositório relacionado](https://github.com/felipetjmg1-bit/canario-soberano-x) |
+| **Canário** — auditoria BIM/Speckle | auditoria técnica | [Abrir implementação pública](https://github.com/felipetjmg1-bit/canario-amarelo-versao-soberana) |
+| **Oráculo X-37** | XAI · MCP · ML | [Abrir repositório](https://github.com/felipetjmg1-bit/oraculo-x37) |
+| **Oráculo X-37 BIM/Speckle** | auditoria · relatórios | [Abrir repositório](https://github.com/felipetjmg1-bit/ORACULOX37-V-3.6.9) |
+| **Sentinela Brasil** | GovTech · governança de dados | [Abrir demonstração](https://github.com/felipetjmg1-bit/sentinela-brasil) |
+| **Projeto Ybyrá** | pesquisa educacional · provas Merkle | [Abrir protótipo](https://github.com/felipetjmg1-bit/projeto-ybyra) |
+| **ZK-XAI 4.0 Industrial / Aurora DREX** | arquitetura · pesquisa | Frentes sem repositório público dedicado no momento |
+
+[Ver todos os repositórios públicos](https://github.com/felipetjmg1-bit?tab=repositories)
 
 ## Como trabalho
 
-- Descrevo o que está implementado e separo protótipos, simulações e planos futuros.
-- Prefiro documentação objetiva, exemplos reproduzíveis e testes proporcionais ao escopo.
-- Recebo contribuições por issues e pull requests com contexto e validações realizadas.
-
-Consulte o `README.md`, a licença e o estado de maturidade de cada projeto antes de reutilizar código ou resultados. Não publique credenciais, dados pessoais ou informações confidenciais em issues e commits.
+- **Soberania por desenho:** priorizo controle de dados, transparência operacional e opções de execução local quando apropriado.
+- **XAI com contexto:** explicações devem ser interpretáveis e acompanhadas dos limites e pressupostos do método.
+- **Auditoria responsável:** evidências e provas criptográficas precisam corresponder a requisitos e verificações explicitamente documentados.
+- **Maturidade explícita:** protótipos, simulações, experimentos e componentes prontos para uso não são tratados como equivalentes.
 
 ## Contato e colaboração
 
 - **GitHub:** [@felipetjmg1-bit](https://github.com/felipetjmg1-bit)
-- **Projetos:** [Todos os repositórios públicos](https://github.com/felipetjmg1-bit?tab=repositories)
 - **E-mail:** [impulsodigitalfinanceira@gmail.com](mailto:impulsodigitalfinanceira@gmail.com)
 - **LinkedIn:** [Felipe Marcos de Abreu Aquino](https://www.linkedin.com/in/felipe-marcos-de-abreu-aquino-a7b2b11b0/)
-- **GitHub Sponsors:** [Apoiar manutenção e documentação](https://github.com/sponsors/felipetjmg1-bit)
+- **Projetos:** [repositórios públicos](https://github.com/felipetjmg1-bit?tab=repositories)
 
-## English summary
+<details>
+  <summary>English summary</summary>
 
-Founder of **Impulso Digital** and builder of experimental Python and applied-AI prototypes. This profile highlights practical work with OpenAI APIs and Speckle Automate, alongside ongoing exploration of FastAPI, MCP, Gradio and the TON/blockchain ecosystem. Projects are early-stage, documented transparently, and are not presented as commercially validated products.
+  CEO and AI Systems Architect at Impulso Digital Soluções em I.A. Ltda., based in Conceição do Mato Dentro, Minas Gerais, Brazil. My focus is Sovereign Deep Tech and Explainable AI architecture: multimodal and edge systems, auditable infrastructure, and research into privacy-preserving proofs and GovTech/financial ecosystems. Featured public work includes Aurora GeoIntelligence XAI, Oráculo X-37, BIM/Speckle audit prototypes, Sentinela Brasil, and Projeto Ybyrá. Project maturity and limitations are documented transparently; architecture initiatives are not presented as institutional integrations or production systems.
+</details>
 
 ---
 
 <div align="center">
-
-**Impulso Digital · Open source · Brasil**<br />
-*Construindo, documentando e aprendendo em público.*
-
-[Licença](LICENSE) · [Contribuir](CONTRIBUTING.md) · [GitHub Sponsors](https://github.com/sponsors/felipetjmg1-bit)
-
+  <sub>Impulso Digital · Sovereign Deep Tech · XAI · Brasil</sub>
 </div>
