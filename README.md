@@ -1,5 +1,7 @@
 <div align="center">
   <img src="assets/robot-brasil-neon.gif" alt="Arte futurista em neon com identidade tecnológica brasileira" width="100%" />
+  <p><strong>🤖 Impulso Digital | Inteligência Artificial, inovação e soberania tecnológica brasileira</strong></p>
+  <p><a href="assets/robot-brasil-neon.mp4">▶ Assistir à versão em vídeo</a> · <a href="assets/robot-brasil-neon.gif">Ver GIF animado</a></p>
 
   <h1>Felipe Marcos de Abreu Aquino</h1>
   <h3>Fundador & Chief AI Architect | Impulso Digital Soluções em I.A. Ltda.</h3>
