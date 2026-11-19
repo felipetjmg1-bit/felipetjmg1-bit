@@ -1,7 +1,7 @@
 <div align="center">
   <img src="assets/robot-brasil-neon.gif" alt="Arte futurista em neon com identidade tecnológica brasileira" width="100%" />
   <p><strong>🤖 Impulso Digital | Inteligência Artificial, inovação e soberania tecnológica brasileira</strong></p>
-  <p><a href="assets/robot-brasil-neon.mp4">▶ Assistir à versão em vídeo</a> · <a href="assets/robot-brasil-neon.gif">Ver GIF animado</a></p>
+  <p><a href="assets/robot-brasil-neon.mp4">▶ Abrir vídeo MP4</a> · <a href="assets/robot-brasil-neon.gif">Ver animação GIF</a></p>
 
   <h1>Felipe Marcos de Abreu Aquino</h1>
   <h3>Fundador & Chief AI Architect | Impulso Digital Soluções em I.A. Ltda.</h3>
@@ -19,6 +19,10 @@
     <a href="https://github.com/felipetjmg1-bit/sentinela-brasil/actions/workflows/ci.yml"><img src="https://github.com/felipetjmg1-bit/sentinela-brasil/actions/workflows/ci.yml/badge.svg" alt="Sentinela Brasil CI" /></a>
     <a href="https://github.com/felipetjmg1-bit/projeto-ybyra/actions/workflows/ci.yml"><img src="https://github.com/felipetjmg1-bit/projeto-ybyra/actions/workflows/ci.yml/badge.svg" alt="Projeto Ybyrá CI" /></a>
     <a href="https://github.com/felipetjmg1-bit/sentinela-das-aguas-app/actions/workflows/ci.yml"><img src="https://github.com/felipetjmg1-bit/sentinela-das-aguas-app/actions/workflows/ci.yml/badge.svg" alt="Sentinela das Águas CI" /></a>
+    <a href="https://github.com/felipetjmg1-bit/Chat-gpt-aurora-/actions/workflows/ci.yml"><img src="https://github.com/felipetjmg1-bit/Chat-gpt-aurora-/actions/workflows/ci.yml/badge.svg" alt="Aurora BIM Assistant CI" /></a>
+    <a href="https://github.com/felipetjmg1-bit/Aurora-Sovereign-Intelligence/actions/workflows/ci.yml"><img src="https://github.com/felipetjmg1-bit/Aurora-Sovereign-Intelligence/actions/workflows/ci.yml/badge.svg" alt="Aurora Sovereign Intelligence CI" /></a>
+    <a href="https://github.com/felipetjmg1-bit/App-impulso-digital-/actions/workflows/ci.yml"><img src="https://github.com/felipetjmg1-bit/App-impulso-digital-/actions/workflows/ci.yml/badge.svg" alt="Impulso Digital Web CI" /></a>
+    <a href="https://github.com/felipetjmg1-bit/CRISTAL-5D-V.4.0-MODULO-1/actions/workflows/ci.yml"><img src="https://github.com/felipetjmg1-bit/CRISTAL-5D-V.4.0-MODULO-1/actions/workflows/ci.yml/badge.svg" alt="Cristal 5D CI" /></a>
   </p>
 </div>
 
@@ -48,6 +52,11 @@ Meu foco é construir tecnologia com responsabilidade: sistemas explicáveis, da
 | [Sentinela Brasil](https://github.com/felipetjmg1-bit/sentinela-brasil) | Governança de dados e demonstrações GovTech | Protótipo demonstrativo |
 | [Canário Soberano X](https://github.com/felipetjmg1-bit/canario-soberano-x) | Pesquisa de IA adaptativa e soberania de dados | Repositório de arquitetura e planejamento |
 | [Projeto Ybyrá](https://github.com/felipetjmg1-bit/projeto-ybyra) | Experimentos educacionais com XAI e provas Merkle | Protótipo experimental |
+| [Aurora Sovereign Intelligence](https://github.com/felipetjmg1-bit/Aurora-Sovereign-Intelligence) | Módulos Python e exemplos de arquitetura modular | Demonstração |
+| [Aurora i.a. / Chat](https://github.com/felipetjmg1-bit/Chat-gpt-aurora-) | Chat em português com Gradio e API OpenAI; trilha BIM separada | Experimental |
+| [Sentinela das Águas](https://github.com/felipetjmg1-bit/sentinela-das-aguas-app) | Protótipo web para alertas e visualização de risco de enchentes | Protótipo |
+| [Cristal 5D](https://github.com/felipetjmg1-bit/CRISTAL-5D-V.4.0-MODULO-1) | Simulador visual de etapas conceituais de armazenamento | Demonstração |
+| [AUR I.D. / TON](https://github.com/felipetjmg1-bit/impulso-digital-ton) | Vitrine experimental com estados demonstrativos de interface Web3 | Protótipo de interface |
 
 [**Explorar todos os 34 repositórios**](https://github.com/felipetjmg1-bit?tab=repositories)
 
