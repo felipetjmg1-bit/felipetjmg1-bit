@@ -9,6 +9,11 @@
     <a href="https://github.com/felipetjmg1-bit/aurora-geointelligence-xai"><img src="https://img.shields.io/badge/PROJETO%20EM%20DESTAQUE-Aurora%20GeoIntelligence-0B6E69?style=for-the-badge" alt="Aurora GeoIntelligence XAI" /></a>
     <a href="https://mlcommons.org/"><img src="https://img.shields.io/badge/ECOSSISTEMA-MLCommons-253858?style=for-the-badge" alt="MLCommons" /></a>
   </p>
+  <p>
+    <a href="https://github.com/felipetjmg1-bit/aurora-geointelligence-xai/actions/workflows/ci.yml"><img src="https://github.com/felipetjmg1-bit/aurora-geointelligence-xai/actions/workflows/ci.yml/badge.svg" alt="Aurora GeoIntelligence CI" /></a>
+    <a href="https://github.com/felipetjmg1-bit/aurora-xai-2-5/actions/workflows/ci.yml"><img src="https://github.com/felipetjmg1-bit/aurora-xai-2-5/actions/workflows/ci.yml/badge.svg" alt="Aurora XAI Web CI" /></a>
+    <a href="https://github.com/felipetjmg1-bit/oraculo-x37/actions/workflows/python-app.yml"><img src="https://github.com/felipetjmg1-bit/oraculo-x37/actions/workflows/python-app.yml/badge.svg" alt="Oráculo X-37 Python CI" /></a>
+  </p>
 </div>
 
 ---
