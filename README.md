@@ -23,6 +23,8 @@
     <a href="https://github.com/felipetjmg1-bit/Aurora-Sovereign-Intelligence/actions/workflows/ci.yml"><img src="https://github.com/felipetjmg1-bit/Aurora-Sovereign-Intelligence/actions/workflows/ci.yml/badge.svg" alt="Aurora Sovereign Intelligence CI" /></a>
     <a href="https://github.com/felipetjmg1-bit/App-impulso-digital-/actions/workflows/ci.yml"><img src="https://github.com/felipetjmg1-bit/App-impulso-digital-/actions/workflows/ci.yml/badge.svg" alt="Impulso Digital Web CI" /></a>
     <a href="https://github.com/felipetjmg1-bit/CRISTAL-5D-V.4.0-MODULO-1/actions/workflows/ci.yml"><img src="https://github.com/felipetjmg1-bit/CRISTAL-5D-V.4.0-MODULO-1/actions/workflows/ci.yml/badge.svg" alt="Cristal 5D CI" /></a>
+    <a href="https://github.com/felipetjmg1-bit/aurora-kids-alfa/actions/workflows/ci.yml"><img src="https://github.com/felipetjmg1-bit/aurora-kids-alfa/actions/workflows/ci.yml/badge.svg" alt="Aurora Kids CI" /></a>
+    <a href="https://github.com/felipetjmg1-bit/aurora-omni-kernel/actions/workflows/ci.yml"><img src="https://github.com/felipetjmg1-bit/aurora-omni-kernel/actions/workflows/ci.yml/badge.svg" alt="Aurora Omni Kernel CI" /></a>
   </p>
 </div>
 
@@ -57,6 +59,8 @@ Meu foco é construir tecnologia com responsabilidade: sistemas explicáveis, da
 | [Sentinela das Águas](https://github.com/felipetjmg1-bit/sentinela-das-aguas-app) | Protótipo web para alertas e visualização de risco de enchentes | Protótipo |
 | [Cristal 5D](https://github.com/felipetjmg1-bit/CRISTAL-5D-V.4.0-MODULO-1) | Simulador visual de etapas conceituais de armazenamento | Demonstração |
 | [AUR I.D. / TON](https://github.com/felipetjmg1-bit/impulso-digital-ton) | Vitrine experimental com estados demonstrativos de interface Web3 | Protótipo de interface |
+| [Aurora Kids Alfa](https://github.com/felipetjmg1-bit/aurora-kids-alfa) | API FastAPI demonstrativa para regras de acesso por horário | Protótipo com testes CI |
+| [Aurora Omni Kernel](https://github.com/felipetjmg1-bit/aurora-omni-kernel) | Ponte FastAPI e componentes iniciais Python/Rust | Protótipo com testes CI |
 
 [**Explorar todos os 34 repositórios**](https://github.com/felipetjmg1-bit?tab=repositories)
 
