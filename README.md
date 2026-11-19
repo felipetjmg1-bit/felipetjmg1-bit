@@ -13,6 +13,10 @@
     <a href="https://github.com/felipetjmg1-bit/aurora-geointelligence-xai/actions/workflows/ci.yml"><img src="https://github.com/felipetjmg1-bit/aurora-geointelligence-xai/actions/workflows/ci.yml/badge.svg" alt="Aurora GeoIntelligence CI" /></a>
     <a href="https://github.com/felipetjmg1-bit/aurora-xai-2-5/actions/workflows/ci.yml"><img src="https://github.com/felipetjmg1-bit/aurora-xai-2-5/actions/workflows/ci.yml/badge.svg" alt="Aurora XAI Web CI" /></a>
     <a href="https://github.com/felipetjmg1-bit/oraculo-x37/actions/workflows/python-app.yml"><img src="https://github.com/felipetjmg1-bit/oraculo-x37/actions/workflows/python-app.yml/badge.svg" alt="Oráculo X-37 Python CI" /></a>
+    <a href="https://github.com/felipetjmg1-bit/ORACULOX37-V-3.6.9/actions/workflows/ci.yml"><img src="https://github.com/felipetjmg1-bit/ORACULOX37-V-3.6.9/actions/workflows/ci.yml/badge.svg" alt="Oráculo X-37 BIM CI" /></a>
+    <a href="https://github.com/felipetjmg1-bit/sentinela-brasil/actions/workflows/ci.yml"><img src="https://github.com/felipetjmg1-bit/sentinela-brasil/actions/workflows/ci.yml/badge.svg" alt="Sentinela Brasil CI" /></a>
+    <a href="https://github.com/felipetjmg1-bit/projeto-ybyra/actions/workflows/ci.yml"><img src="https://github.com/felipetjmg1-bit/projeto-ybyra/actions/workflows/ci.yml/badge.svg" alt="Projeto Ybyrá CI" /></a>
+    <a href="https://github.com/felipetjmg1-bit/sentinela-das-aguas-app/actions/workflows/ci.yml"><img src="https://github.com/felipetjmg1-bit/sentinela-das-aguas-app/actions/workflows/ci.yml/badge.svg" alt="Sentinela das Águas CI" /></a>
   </p>
 </div>
 
