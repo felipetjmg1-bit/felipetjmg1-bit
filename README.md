@@ -68,6 +68,14 @@ Meu foco é construir tecnologia com responsabilidade: sistemas explicáveis, da
 
 > **Compromisso com a precisão:** cada repositório deve informar o que está implementado, o que é protótipo, o que é simulação e o que permanece como hipótese ou pesquisa. Menções a tecnologias, instituições ou ecossistemas não significam parceria, homologação, integração oficial ou operação em produção.
 
+## Compromisso com a cooperação nacional
+
+A Impulso Digital mantém uma agenda de pesquisa e desenvolvimento orientada ao fortalecimento da capacidade tecnológica brasileira. A empresa está aberta à cooperação técnica e científica com órgãos públicos, universidades, institutos de pesquisa, empresas, laboratórios e comunidades de inovação, respeitando os processos institucionais e os instrumentos formais de cada parceiro.
+
+A atuação institucional prioriza diálogo respeitoso, transparência, responsabilidade com dados, documentação técnica e resultados verificáveis. Propostas de colaboração são apresentadas como propostas até que exista instrumento formal confirmado. Nenhuma instituição é apresentada como parceira, apoiadora ou patrocinadora sem evidência pública ou autorização correspondente.
+
+**Visão:** contribuir para uma infraestrutura tecnológica brasileira mais capaz, segura, interoperável e sustentável, construída em cooperação com a sociedade e as instituições nacionais.
+
 ## Princípios de engenharia
 
 1. **Soberania por desenho:** minimizar dependências desnecessárias e documentar onde os dados são processados.
@@ -103,7 +111,7 @@ Acredito em pesquisa aberta, documentação clara e colaboração técnica que g
 ---
 
 <div align="center">
-  <strong>TECNOLOGIA COM PROPÓSITO. INTELIGÊNCIA COM TRANSPARÊNCIA. SOBERANIA COM ENGENHARIA.</strong>
+  <strong>TECNOLOGIA COM PROPÓSITO. INTELIGÊNCIA COM TRANSPARÊNCIA. SOBERANIA CONSTRUÍDA EM COOPERAÇÃO.</strong>
   <br />
   <sub>Impulso Digital · Brasil · Open Source</sub>
 </div>
