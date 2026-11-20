@@ -1,117 +1,70 @@
 <div align="center">
-  <img src="assets/robot-brasil-neon.gif" alt="Arte futurista em neon com identidade tecnológica brasileira" width="100%" />
-  <p><strong>🤖 Impulso Digital | Inteligência Artificial, inovação e soberania tecnológica brasileira</strong></p>
-  <p><a href="assets/robot-brasil-neon.mp4">▶ Abrir vídeo MP4</a> · <a href="assets/robot-brasil-neon.gif">Ver animação GIF</a></p>
 
-  <h1>Felipe Marcos de Abreu Aquino</h1>
-  <h3>Fundador & Chief AI Architect | Impulso Digital Soluções em I.A. Ltda.</h3>
-  <p><strong>Impulsionando a inteligência artificial. Construindo soberania tecnológica para o Brasil.</strong></p>
-  <p>
-    <a href="https://github.com/felipetjmg1-bit?tab=repositories"><img src="https://img.shields.io/badge/REPOSIT%C3%93RIOS-Open%20Source-111827?style=for-the-badge&logo=github" alt="Repositórios open source" /></a>
-    <a href="https://github.com/felipetjmg1-bit/aurora-geointelligence-xai"><img src="https://img.shields.io/badge/PROJETO%20EM%20DESTAQUE-Aurora%20GeoIntelligence-0B6E69?style=for-the-badge" alt="Aurora GeoIntelligence XAI" /></a>
-    <a href="https://mlcommons.org/"><img src="https://img.shields.io/badge/ECOSSISTEMA-MLCommons-253858?style=for-the-badge" alt="MLCommons" /></a>
-  </p>
-  <p>
-    <a href="https://github.com/felipetjmg1-bit/aurora-geointelligence-xai/actions/workflows/ci.yml"><img src="https://github.com/felipetjmg1-bit/aurora-geointelligence-xai/actions/workflows/ci.yml/badge.svg" alt="Aurora GeoIntelligence CI" /></a>
-    <a href="https://github.com/felipetjmg1-bit/aurora-xai-2-5/actions/workflows/ci.yml"><img src="https://github.com/felipetjmg1-bit/aurora-xai-2-5/actions/workflows/ci.yml/badge.svg" alt="Aurora XAI Web CI" /></a>
-    <a href="https://github.com/felipetjmg1-bit/oraculo-x37/actions/workflows/python-app.yml"><img src="https://github.com/felipetjmg1-bit/oraculo-x37/actions/workflows/python-app.yml/badge.svg" alt="Oráculo X-37 Python CI" /></a>
-    <a href="https://github.com/felipetjmg1-bit/ORACULOX37-V-3.6.9/actions/workflows/ci.yml"><img src="https://github.com/felipetjmg1-bit/ORACULOX37-V-3.6.9/actions/workflows/ci.yml/badge.svg" alt="Oráculo X-37 BIM CI" /></a>
-    <a href="https://github.com/felipetjmg1-bit/sentinela-brasil/actions/workflows/ci.yml"><img src="https://github.com/felipetjmg1-bit/sentinela-brasil/actions/workflows/ci.yml/badge.svg" alt="Sentinela Brasil CI" /></a>
-    <a href="https://github.com/felipetjmg1-bit/projeto-ybyra/actions/workflows/ci.yml"><img src="https://github.com/felipetjmg1-bit/projeto-ybyra/actions/workflows/ci.yml/badge.svg" alt="Projeto Ybyrá CI" /></a>
-    <a href="https://github.com/felipetjmg1-bit/sentinela-das-aguas-app/actions/workflows/ci.yml"><img src="https://github.com/felipetjmg1-bit/sentinela-das-aguas-app/actions/workflows/ci.yml/badge.svg" alt="Sentinela das Águas CI" /></a>
-    <a href="https://github.com/felipetjmg1-bit/Chat-gpt-aurora-/actions/workflows/ci.yml"><img src="https://github.com/felipetjmg1-bit/Chat-gpt-aurora-/actions/workflows/ci.yml/badge.svg" alt="Aurora BIM Assistant CI" /></a>
-    <a href="https://github.com/felipetjmg1-bit/Aurora-Sovereign-Intelligence/actions/workflows/ci.yml"><img src="https://github.com/felipetjmg1-bit/Aurora-Sovereign-Intelligence/actions/workflows/ci.yml/badge.svg" alt="Aurora Sovereign Intelligence CI" /></a>
-    <a href="https://github.com/felipetjmg1-bit/App-impulso-digital-/actions/workflows/ci.yml"><img src="https://github.com/felipetjmg1-bit/App-impulso-digital-/actions/workflows/ci.yml/badge.svg" alt="Impulso Digital Web CI" /></a>
-    <a href="https://github.com/felipetjmg1-bit/CRISTAL-5D-V.4.0-MODULO-1/actions/workflows/ci.yml"><img src="https://github.com/felipetjmg1-bit/CRISTAL-5D-V.4.0-MODULO-1/actions/workflows/ci.yml/badge.svg" alt="Cristal 5D CI" /></a>
-    <a href="https://github.com/felipetjmg1-bit/aurora-kids-alfa/actions/workflows/ci.yml"><img src="https://github.com/felipetjmg1-bit/aurora-kids-alfa/actions/workflows/ci.yml/badge.svg" alt="Aurora Kids CI" /></a>
-    <a href="https://github.com/felipetjmg1-bit/aurora-omni-kernel/actions/workflows/ci.yml"><img src="https://github.com/felipetjmg1-bit/aurora-omni-kernel/actions/workflows/ci.yml/badge.svg" alt="Aurora Omni Kernel CI" /></a>
-    <a href="https://github.com/felipetjmg1-bit/SENTINELA-SOBERANO-2037/actions/workflows/ci.yml"><img src="https://github.com/felipetjmg1-bit/SENTINELA-SOBERANO-2037/actions/workflows/ci.yml/badge.svg" alt="Sentinela Soberano CI" /></a>
-  </p>
+# Felipe Marcos de Abreu Aquino
+
+**Fundador e CEO · Impulso Digital Soluções em I.A.**
+
+Engenharia de software, inteligência artificial aplicada, geointeligência e sistemas explicáveis.
+
+[Repositórios](https://github.com/felipetjmg1-bit?tab=repositories) · [ORCID](https://orcid.org/0009-0006-8901-0425) · [Site / portfólio](https://felipetjmj1.github.io/) · [E-mail profissional](mailto:impulsodigitalfinanceira@gmail.com)
+
 </div>
 
----
+Atuação profissional entre Brasília/DF e Minas Gerais. Este perfil reúne implementações de software, protótipos de pesquisa e documentação técnica da Impulso Digital. Os estados de maturidade são descritos de forma explícita; presença no GitHub não significa validação independente, homologação ou prontidão para produção.
 
-## Sobre
+## Projetos com código executável
 
-Sou fundador da **Impulso Digital Soluções em I.A. Ltda.** e trabalho na concepção, desenvolvimento e documentação de soluções de inteligência artificial, engenharia de software e governança tecnológica.
-
-Meu foco é construir tecnologia com responsabilidade: sistemas explicáveis, dados sob controle, segurança desde a arquitetura e evidências reproduzíveis. A soberania tecnológica brasileira é o propósito que orienta essa jornada: ampliar a capacidade nacional de pesquisar, desenvolver, avaliar e operar tecnologias estratégicas.
-
-**Áreas de atuação e pesquisa**
-- Inteligência artificial aplicada e sistemas multimodais
-- Explainable AI (XAI), avaliação e rastreabilidade
-- Engenharia de software, APIs e ferramentas para desenvolvedores
-- Governança, privacidade e segurança de dados
-- Geointeligência, sensoriamento remoto e sistemas edge
-- Pesquisa exploratória em infraestrutura digital soberana
-
-## Projetos em destaque
-
-| Projeto | Foco | Estado documentado |
+| Projeto | Escopo verificável | Maturidade |
 |---|---|---|
-| [Aurora GeoIntelligence XAI](https://github.com/felipetjmg1-bit/aurora-geointelligence-xai) | Geointeligência, sensoriamento remoto e relatórios rastreáveis | MVP experimental com código e testes |
-| [Oráculo X-37](https://github.com/felipetjmg1-bit/oraculo-x37) | API de ML, classificação/regressão e ferramentas MCP | Aplicação Python com testes automatizados |
-| [Aurora XAI 2.5](https://github.com/felipetjmg1-bit/aurora-xai-2-5) | Interface web para experiências de IA explicável | Aplicação web em evolução |
-| [Sentinela Brasil](https://github.com/felipetjmg1-bit/sentinela-brasil) | Governança de dados e demonstrações GovTech | Protótipo demonstrativo |
-| [Canário Soberano X](https://github.com/felipetjmg1-bit/canario-soberano-x) | Pesquisa de IA adaptativa e soberania de dados | Repositório de arquitetura e planejamento |
-| [Projeto Ybyrá](https://github.com/felipetjmg1-bit/projeto-ybyra) | Experimentos educacionais com XAI e provas Merkle | Protótipo experimental |
-| [Aurora Sovereign Intelligence](https://github.com/felipetjmg1-bit/Aurora-Sovereign-Intelligence) | Módulos Python e exemplos de arquitetura modular | Demonstração |
-| [Aurora i.a. / Chat](https://github.com/felipetjmg1-bit/Chat-gpt-aurora-) | Chat em português com Gradio e API OpenAI; trilha BIM separada | Experimental |
-| [Sentinela das Águas](https://github.com/felipetjmg1-bit/sentinela-das-aguas-app) | Protótipo web para alertas e visualização de risco de enchentes | Protótipo |
-| [Cristal 5D](https://github.com/felipetjmg1-bit/CRISTAL-5D-V.4.0-MODULO-1) | Simulador visual de etapas conceituais de armazenamento | Demonstração |
-| [AUR I.D. / TON](https://github.com/felipetjmg1-bit/impulso-digital-ton) | Vitrine experimental com estados demonstrativos de interface Web3 | Protótipo de interface |
-| [Aurora Kids Alfa](https://github.com/felipetjmg1-bit/aurora-kids-alfa) | API FastAPI demonstrativa para regras de acesso por horário | Protótipo com testes CI |
-| [Aurora Omni Kernel](https://github.com/felipetjmg1-bit/aurora-omni-kernel) | Ponte FastAPI e componentes iniciais Python/Rust | Protótipo com testes CI |
-| [Sentinela Soberano 2037](https://github.com/felipetjmg1-bit/SENTINELA-SOBERANO-2037) | Demonstrações Python de regras de risco e codificação Base64 | Demonstração com testes CI |
+| [Aurora GeoIntelligence XAI](https://github.com/felipetjmg1-bit/aurora-geointelligence-xai) | Interface Gradio para inspeção de imagens/raster, agrupamento visual CPU-first e relatórios | MVP experimental |
+| [Sentinela Brasil](https://github.com/felipetjmg1-bit/sentinela-brasil) | API FastAPI local, RBAC, vault Fernet, políticas e auditoria | MVP demonstrativo |
+| [Oráculo X-37](https://github.com/felipetjmg1-bit/oraculo-x37) | API Flask, scikit-learn e ferramentas MCP | MVP experimental |
+| [Aurora Chat IA](https://github.com/felipetjmg1-bit/Chat-gpt-aurora-) | Interface Gradio com integração à API OpenAI | Protótipo experimental |
+| [Sentinela das Águas App](https://github.com/felipetjmg1-bit/sentinela-das-aguas-app) | Protótipo web para visualização de alertas e pontos em mapas | Protótipo |
+| [Canário Amarelo Soberano](https://github.com/felipetjmg1-bit/canario-amarelo-versao-soberana) | Automação Speckle/BIM e relatórios exploratórios | Protótipo |
 
-[**Explorar todos os 34 repositórios**](https://github.com/felipetjmg1-bit?tab=repositories)
+## Pesquisa e documentação
 
-> **Compromisso com a precisão:** cada repositório deve informar o que está implementado, o que é protótipo, o que é simulação e o que permanece como hipótese ou pesquisa. Menções a tecnologias, instituições ou ecossistemas não significam parceria, homologação, integração oficial ou operação em produção.
+| Iniciativa | Natureza |
+|---|---|
+| [Projeto Ybyrá](https://github.com/felipetjmg1-bit/projeto-ybyra) | Experimentos de codificação inspirada em DNA, XAI e provas Merkle |
+| [Cristal 5D](https://github.com/felipetjmg1-bit/quartz-5d-sovereignty) | Pesquisa conceitual sobre armazenamento multidimensional |
+| [Supercomputador Quântico Orbital (SQO)](https://github.com/felipetjmg1-bit/SQO-Supercomputador-Quantico-Orbital) | Proposta documental de pesquisa |
+| [Sentinela das Águas](https://github.com/felipetjmg1-bit/sentinela-das-aguas) | Proposta de monitoramento e alerta de enchentes |
+| [Provas de Conceito de IA](https://github.com/felipetjmg1-bit/Provas-de-Conceito-IA) | Catálogo documental de iniciativas |
 
-## Compromisso com a cooperação nacional
+## Stack técnica observada nos repositórios
 
-A Impulso Digital mantém uma agenda de pesquisa e desenvolvimento orientada ao fortalecimento da capacidade tecnológica brasileira. A empresa está aberta à cooperação técnica e científica com órgãos públicos, universidades, institutos de pesquisa, empresas, laboratórios e comunidades de inovação, respeitando os processos institucionais e os instrumentos formais de cada parceiro.
+- **Linguagens:** Python, JavaScript, TypeScript, Rust e C++.
+- **Backend e APIs:** Flask, FastAPI, Node.js e Express.
+- **IA e dados:** scikit-learn, NumPy, Pillow, Rasterio e integração com OpenAI API.
+- **Interfaces:** Gradio, React, Next.js e Vite.
+- **Engenharia:** Docker, pytest, Ruff e GitHub Actions.
 
-A atuação institucional prioriza diálogo respeitoso, transparência, responsabilidade com dados, documentação técnica e resultados verificáveis. Propostas de colaboração são apresentadas como propostas até que exista instrumento formal confirmado. Nenhuma instituição é apresentada como parceira, apoiadora ou patrocinadora sem evidência pública ou autorização correspondente.
-
-**Visão:** contribuir para uma infraestrutura tecnológica brasileira mais capaz, segura, interoperável e sustentável, construída em cooperação com a sociedade e as instituições nacionais.
+A lista representa tecnologias encontradas em diferentes repositórios, não uma afirmação de que todos os projetos utilizem toda a stack. Ferramentas e serviços sem implementação correspondente não são apresentados como capacidades entregues.
 
 ## Princípios de engenharia
 
-1. **Soberania por desenho:** minimizar dependências desnecessárias e documentar onde os dados são processados.
-2. **Explicabilidade:** tornar métodos, premissas, limitações e resultados compreensíveis.
-3. **Segurança:** tratar dependências, segredos, permissões e entradas como parte do ciclo de desenvolvimento.
-4. **Reprodutibilidade:** disponibilizar instruções, testes e evidências que outras pessoas possam verificar.
-5. **Maturidade transparente:** não confundir demonstração, pesquisa, protótipo e produto operacional.
+- Código aberto e documentação reproduzível.
+- Separação entre implementação, protótipo e pesquisa.
+- XAI com limites e hipóteses explicitados.
+- CPU-first quando adequado ao problema.
+- Segurança, privacidade e LGPD consideradas desde o desenho.
+- Cooperação técnica e validação independente.
 
-## Tecnologias
+## Contato e identidade institucional
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-</p>
-
-*As tecnologias acima representam ferramentas presentes em diferentes projetos do portfólio, não uma afirmação de que todos os projetos utilizam toda a stack.*
-
-## Colaboração
-
-Acredito em pesquisa aberta, documentação clara e colaboração técnica que gere capacidade real. Contribuições, revisão de código, testes reproduzíveis e discussões fundamentadas são bem-vindos.
-
-- **Empresa:** Impulso Digital Soluções em I.A. Ltda.
+- **Organização:** Impulso Digital Soluções em I.A.
 - **E-mail:** [impulsodigitalfinanceira@gmail.com](mailto:impulsodigitalfinanceira@gmail.com)
+- **ORCID:** [0009-0006-8901-0425](https://orcid.org/0009-0006-8901-0425)
 - **LinkedIn:** [Felipe Marcos de Abreu Aquino](https://www.linkedin.com/in/felipe-marcos-de-abreu-aquino-a7b2b11b0/)
-- **Projetos:** [github.com/felipetjmg1-bit](https://github.com/felipetjmg1-bit)
+- **Portfólio:** [felipetjmj1.github.io](https://felipetjmj1.github.io/)
+- **GitHub:** [github.com/felipetjmg1-bit](https://github.com/felipetjmg1-bit)
 
 ---
 
 <div align="center">
-  <strong>TECNOLOGIA COM PROPÓSITO. INTELIGÊNCIA COM TRANSPARÊNCIA. SOBERANIA CONSTRUÍDA EM COOPERAÇÃO.</strong>
-  <br />
-  <sub>Impulso Digital · Brasil · Open Source</sub>
+
+**Engenharia responsável. IA explicável. Tecnologia aberta.**
+
 </div>
