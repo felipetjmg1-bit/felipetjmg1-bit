@@ -3,7 +3,7 @@
   <img src="assets/impulso-digital-spectrum.svg" alt="Impulso Digital: inteligência em movimento, arte tecnológica animada em quatro cores" width="100%" />
 
   <h1>Felipe Marcos de Abreu Aquino</h1>
-  <h3>Fundador, CEO e Chief AI Architect · Impulso Digital Soluções em I.A. Ltda.</h3>
+  <h3>Fundador, CEO e Chief AI Architect · Impulso Digital Soluções em IA</h3>
 
   <p><strong>Construindo tecnologia com propósito, transparência e cooperação.</strong></p>
 
@@ -25,7 +25,7 @@
 
 ## 👋 Sobre
 
-Sou fundador da **Impulso Digital Soluções em I.A. Ltda.** e atuo na concepção, prototipagem e documentação de soluções de inteligência artificial e engenharia de software.
+Sou fundador da **Impulso Digital Soluções em IA** e atuo na concepção, prototipagem e documentação de soluções de inteligência artificial e engenharia de software.
 
 Minha agenda técnica reúne **IA multimodal, Explainable AI (XAI), geointeligência, governança de dados, APIs, automação e segurança por arquitetura**.
 
