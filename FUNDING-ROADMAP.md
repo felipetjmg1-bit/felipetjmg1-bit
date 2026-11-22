@@ -23,7 +23,7 @@ Prioridade sugerida:
 2. Sentinela Brasil: revisão de autenticação, autorização, criptografia, chaves, auditoria e modelo de ameaças.
 3. Oráculo X-37: alinhar dependências e pontos de entrada, instalar em ambiente limpo e executar testes.
 4. Aurora XAI 2.5: lint, build, acessibilidade, testes de interface e fontes de dados identificadas.
-5. Canário Soberano X: fechar requisitos e construir o menor protótipo demonstrável antes de ampliar modalidades.
+5. Canário Soberano X: fechar requisitos, implementar o primeiro módulo executável e validar o fluxo textual antes de ampliar modalidades.
 
 **Critério de conclusão:** evidências de validação reproduzíveis, problemas conhecidos registrados e escopo de MVP delimitado.
 
@@ -78,4 +78,4 @@ Não há valores ou percentuais publicados nesta versão porque ainda precisam s
 
 ## Próxima decisão de portfólio
 
-A recomendação inicial é começar a diligência técnica por Aurora GeoIntelligence XAI e Sentinela Brasil, pois seus READMEs descrevem capacidades de software e limites concretos. Oráculo X-37 vem em seguida após reconciliar dependências. As iniciativas conceituais devem ter orçamento e plano separados, sem competir com a estabilização dos protótipos executáveis.
+A recomendação inicial é começar a diligência técnica por Aurora GeoIntelligence XAI e Sentinela Brasil, pois seus READMEs descrevem capacidades de software e limites concretos. Oráculo X-37 vem em seguida após reconciliar dependências. As iniciativas de pesquisa e especificação devem ter orçamento e plano separados, sem serem apresentadas como software disponível antes da implementação.
