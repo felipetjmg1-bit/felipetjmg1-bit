@@ -59,3 +59,42 @@ Cada repositório prioritário deve publicar:
 Cada repositório público possui um arquivo `PROJECT-OVERVIEW.svg` incorporado ao respectivo README. Os diagramas apresentam fluxos, módulos e interfaces documentados no código. Quando um fluxo é conceitual ou simulado, essa condição aparece no próprio material; os diagramas não são capturas de tela de execução nem comprovam integrações externas.
 
 **Marca institucional padronizada:** Impulso Digital Soluções em IA.
+
+
+## Galeria visual completa
+
+Cada imagem abre o diagrama de fluxo do repositório correspondente:
+
+- [Oráculo X-37](https://github.com/felipetjmg1-bit/oraculo-x37/blob/main/PROJECT-OVERVIEW.svg)
+- [TON Assets](https://github.com/felipetjmg1-bit/ton-assets/blob/main/PROJECT-OVERVIEW.svg)
+- [UCU v2](https://github.com/felipetjmg1-bit/ucu-crystal-control-unit-v2/blob/master/PROJECT-OVERVIEW.svg)
+- [Canário Amarelo · Speckle](https://github.com/felipetjmg1-bit/Can-rio-amarelo-/blob/main/PROJECT-OVERVIEW.svg)
+- [Aurora GeoIntelligence XAI](https://github.com/felipetjmg1-bit/aurora-geointelligence-xai/blob/main/PROJECT-OVERVIEW.svg)
+- [Cristal de Quartzo Aurora](https://github.com/felipetjmg1-bit/cristal-quartzo-aurora/blob/master/PROJECT-OVERVIEW.svg)
+- [Painel estático Impulso Digital](https://github.com/felipetjmg1-bit/felipetjmj1.github.io/blob/main/PROJECT-OVERVIEW.svg)
+- [Aurora XAI 2.5](https://github.com/felipetjmg1-bit/aurora-xai-2-5/blob/main/PROJECT-OVERVIEW.svg)
+- [Laboratório de PoCs de IA](https://github.com/felipetjmg1-bit/Provas-de-Conceito-IA/blob/main/PROJECT-OVERVIEW.svg)
+- [Aurora Kids Alfa](https://github.com/felipetjmg1-bit/aurora-kids-alfa/blob/master/PROJECT-OVERVIEW.svg)
+- [Sentinela das Águas · proposta](https://github.com/felipetjmg1-bit/sentinela-das-aguas/blob/master/PROJECT-OVERVIEW.svg)
+- [Canário Amarelo · versão soberana](https://github.com/felipetjmg1-bit/canario-amarelo-versao-soberana/blob/main/PROJECT-OVERVIEW.svg)
+- [Projeto Ybyrá](https://github.com/felipetjmg1-bit/projeto-ybyra/blob/main/PROJECT-OVERVIEW.svg)
+- [Aurora Chat IA](https://github.com/felipetjmg1-bit/Chat-gpt-aurora-/blob/main/PROJECT-OVERVIEW.svg)
+- [UCU · Unidade de Controle](https://github.com/felipetjmg1-bit/ucu-crystal-control-unit/blob/main/PROJECT-OVERVIEW.svg)
+- [Sentinela Soberano 2037](https://github.com/felipetjmg1-bit/SENTINELA-SOBERANO-2037/blob/master/PROJECT-OVERVIEW.svg)
+- [Cristal 5D · Simulador](https://github.com/felipetjmg1-bit/CRISTAL-5D-V.4.0-MODULO-1/blob/main/PROJECT-OVERVIEW.svg)
+- [SQO · Supercomputador Quântico Orbital](https://github.com/felipetjmg1-bit/SQO-Supercomputador-Quantico-Orbital/blob/main/PROJECT-OVERVIEW.svg)
+- [Sentinela das Águas · app](https://github.com/felipetjmg1-bit/sentinela-das-aguas-app/blob/main/PROJECT-OVERVIEW.svg)
+- [Quartz 5D Sovereignty](https://github.com/felipetjmg1-bit/quartz-5d-sovereignty/blob/master/PROJECT-OVERVIEW.svg)
+- [Aurora Omni Kernel](https://github.com/felipetjmg1-bit/aurora-omni-kernel/blob/master/PROJECT-OVERVIEW.svg)
+- [App Impulso Digital](https://github.com/felipetjmg1-bit/App-impulso-digital-/blob/main/PROJECT-OVERVIEW.svg)
+- [AUR I.D · TON](https://github.com/felipetjmg1-bit/impulso-digital-ton/blob/main/PROJECT-OVERVIEW.svg)
+- [EVA IA](https://github.com/felipetjmg1-bit/EVA-IA/blob/main/PROJECT-OVERVIEW.svg)
+- [Sentinela Brasil](https://github.com/felipetjmg1-bit/sentinela-brasil/blob/main/PROJECT-OVERVIEW.svg)
+- [Mobile Console Viewer](https://github.com/felipetjmg1-bit/Mobile-Console-Viewer/blob/main/PROJECT-OVERVIEW.svg)
+- [Aurora Shop](https://github.com/felipetjmg1-bit/aurorashop-page-app/blob/main/PROJECT-OVERVIEW.svg)
+- [Aurora Sovereign Intelligence](https://github.com/felipetjmg1-bit/Aurora-Sovereign-Intelligence/blob/master/PROJECT-OVERVIEW.svg)
+- [Portfolio Template](https://github.com/felipetjmg1-bit/portfolio-template/blob/master/PROJECT-OVERVIEW.svg)
+- [Oráculo X-37 · Speckle BIM](https://github.com/felipetjmg1-bit/ORACULOX37-V-3.6.9/blob/main/PROJECT-OVERVIEW.svg)
+- [Terrabras](https://github.com/felipetjmg1-bit/Terrabras/blob/master/PROJECT-OVERVIEW.svg)
+- [Canário Soberano X](https://github.com/felipetjmg1-bit/canario-soberano-x/blob/main/PROJECT-OVERVIEW.svg)
+- [Aurora Soberana](https://github.com/felipetjmg1-bit/aurora-soberana/blob/main/PROJECT-OVERVIEW.svg)
