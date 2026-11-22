@@ -12,9 +12,9 @@
 
 A **Impulso Digital Soluções em IA** é uma iniciativa brasileira de desenvolvimento e pesquisa aplicada em software e inteligência artificial, liderada por Felipe Marcos de Abreu Aquino.
 
-O portfólio reúne projetos em diferentes estágios, desde protótipos de software com código executável até propostas de pesquisa e documentação conceitual. A prioridade desta página é facilitar a avaliação técnica independente e abrir conversas com investidores, patrocinadores, empresas, universidades, institutos de pesquisa e parceiros de implementação.
+O portfólio reúne aplicações com código executável, interfaces em desenvolvimento, demonstrações documentadas e frentes de pesquisa e especificação. Cada repositório identifica o que já funciona, o que está em validação e o que depende de implementação ou parceria técnica. A prioridade desta página é facilitar a avaliação técnica independente e abrir conversas com investidores, patrocinadores, empresas, universidades, institutos de pesquisa e parceiros de implementação.
 
-**Não apresentamos todos os projetos como produtos prontos.** Cada oportunidade deve ser avaliada por seu escopo, evidências, riscos, maturidade e plano de validação.
+A apresentação comercial distingue funcionalidades implementadas, integrações simuladas e itens ainda em desenvolvimento. Um projeto só será apresentado como produto concluído após testes, validação operacional, segurança e documentação de entrega.
 
 ## Onde concentrar a avaliação inicial
 
@@ -23,8 +23,8 @@ O portfólio reúne projetos em diferentes estágios, desde protótipos de softw
 | [Aurora GeoIntelligence XAI](https://github.com/felipetjmg1-bit/aurora-geointelligence-xai) | Aplicação Gradio, processamento CPU-first, agrupamento visual, leitura de imagens e relatórios; testes existentes | Dataset de referência, benchmark reproduzível, avaliação por especialistas e piloto controlado |
 | [Sentinela Brasil](https://github.com/felipetjmg1-bit/sentinela-brasil) | API FastAPI, autorização demonstrativa, vault local e ledger encadeado por hash | Revisão independente de segurança, gestão de chaves, hardening e piloto com dados sintéticos |
 | [Oráculo X-37](https://github.com/felipetjmg1-bit/oraculo-x37) | API Flask, modelos scikit-learn e servidor MCP separado | Reconciliar dependências, validar instalação limpa, testes e avaliação de modelos |
-| [Aurora XAI 2.5](https://github.com/felipetjmg1-bit/aurora-xai-2-5) | Protótipo de interface Next.js/React | Validar fluxos, acessibilidade, fontes de dados e integração com serviços reais |
-| [Canário Soberano X](https://github.com/felipetjmg1-bit/canario-soberano-x) | Repositório inicial de arquitetura e requisitos | Especificação de MVP, protótipo textual mínimo e conjunto de avaliação |
+| [Aurora XAI 2.5](https://github.com/felipetjmg1-bit/aurora-xai-2-5) | Interface Next.js/React em desenvolvimento | Validar fluxos, acessibilidade, fontes de dados e integração com serviços reais |
+| [Canário Soberano X](https://github.com/felipetjmg1-bit/canario-soberano-x) | Arquitetura e requisitos em desenvolvimento | Implementar o primeiro módulo executável, testes e conjunto de avaliação |
 
 As iniciativas [Ybyrá](https://github.com/felipetjmg1-bit/projeto-ybyra), [Cristal 5D](https://github.com/felipetjmg1-bit/quartz-5d-sovereignty), [SQO](https://github.com/felipetjmg1-bit/SQO-Supercomputador-Quantico-Orbital) e outras propostas de pesquisa devem ser avaliadas separadamente como pesquisa exploratória, documentação ou prova de conceito, conforme a evidência publicada em cada repositório.
 
@@ -56,7 +56,7 @@ Cada conversa deve evoluir por etapas verificáveis:
 - Não há captação pública de valores nem oferta pública de participação societária por esta página.
 - Qualquer investimento dependerá de avaliação individual, estrutura jurídica apropriada e documentação formal.
 - Menções a instituições, programas ou ecossistemas não significam parceria, endosso, financiamento ou homologação.
-- Propostas conceituais, simulações, protótipos e sistemas executáveis são identificados separadamente.
+- Propostas conceituais, simulações, demonstrações e sistemas executáveis são identificados separadamente.
 - Nenhum dado sensível, credencial, segredo comercial ou informação pessoal deve ser enviado por issue pública.
 - A diligência deve incluir titularidade e licenças de código, dependências de terceiros, marcas, dados, contratos e obrigações regulatórias.
 
@@ -74,3 +74,8 @@ Para iniciar uma conversa institucional, escreva para **impulsodigitalfinanceira
 ---
 
 *Documento institucional de apresentação. Não constitui oferta de valores mobiliários, proposta vinculante, promessa de retorno ou solicitação pública de investimento. Escopo, orçamento, estrutura e condições serão definidos somente após avaliação e formalização apropriadas.*
+
+
+## Apresentação visual dos projetos
+
+Os READMEs dos repositórios incluem diagramas SVG próprios, com os fluxos e módulos descritos na documentação. Esses diagramas ajudam na leitura técnica, mas não substituem capturas reais de telas, testes de aceitação ou evidência de operação em produção.
