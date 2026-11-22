@@ -83,3 +83,30 @@ O conector GitHub permite ler e gravar arquivos e metadados, mas esta rodada nã
 - Transformar P2 em projetos de pesquisa com critérios mensuráveis.
 - Revisar P3 e atribuições de terceiros.
 - Atualizar o catálogo institucional somente com evidências já confirmadas.
+
+
+## Registro de execução verificada
+
+**Atualização:** 22/11/2026.
+
+### Aurora GeoIntelligence XAI
+- CI Python 3.11 executado com sucesso no commit `3935b0fd60cec73b6f4b5edab4b5942f0c8699c2`.
+- O job confirmou instalação de dependências, validação de sintaxe e execução da suíte de testes.
+- Workflows: [GeoIntelligence CI](https://github.com/felipetjmg1-bit/aurora-geointelligence-xai/actions/runs/45037000443) e [CPU CI](https://github.com/felipetjmg1-bit/aurora-geointelligence-xai/actions/runs/45037000376).
+- Permanecem pendentes revisão científica, instalação independente, validação com dados reais autorizados, lockfile e release.
+
+### Sentinela Brasil
+- Corrigida a dependência opcional de testes de `httpx2` para `httpx` em `pyproject.toml`.
+- Workflow atualizado para instalar o extra declarado `.[test]`, evitando dependências de teste duplicadas fora do manifesto.
+- CI Python 3.11 executado com sucesso no commit `04abf764061dfea76c518675cfe716bdba0822be`, incluindo instalação do projeto e execução dos testes de API/segurança.
+- Evidência: [execução CI](https://github.com/felipetjmg1-bit/sentinela-brasil/actions/runs/45037200324).
+- Permanecem pendentes revisão independente de segurança, rotação/backup de chaves, política operacional, hardening de implantação e testes de abuso.
+
+### Oráculo X-37
+- Corrigido o padrão de DEBUG para permanecer desativado por padrão em `app/core/config.py` (commit `f037a95e0f58128a0432a3378e8bbe36bbef799f`).
+- Substituída a política SECURITY.md genérica por orientações coerentes com o estado experimental, incluindo alerta sobre rotas sem autenticação e artefatos pickle.
+- Adicionado Dependabot para atualizações semanais de dependências Python e GitHub Actions.
+- As execuções CI do commit de documentação e do commit de configuração Dependabot foram disparadas; a conclusão do run mais recente ainda precisa ser conferida.
+- Bloqueador técnico: API Flask e servidor MCP não possuem autenticação de produção integrada; não expor publicamente. Manifestos de dependências ainda precisam ser reconciliados e testados em instalação limpa.
+
+**Nota de integridade:** resultados de CI comprovam apenas os comandos executados no workflow e naquele commit. Não constituem certificação, auditoria independente, garantia de segurança ou prontidão para produção.
