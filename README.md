@@ -126,3 +126,8 @@ A Impulso Digital está aberta ao diálogo técnico com universidades, instituto
 
   <sub>Impulso Digital · Brasil · Open Source · Tecnologia com propósito</sub>
 </div>
+
+
+## Execução técnica do portfólio
+
+[Plano de execução técnica do portfólio](PORTFOLIO-EXECUTION-PLAN.md) · Critérios de aceite, prioridades P0–P3 e limites de validação.
