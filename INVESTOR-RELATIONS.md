@@ -10,7 +10,7 @@
 
 ## Uma oportunidade de construir capacidade tecnológica
 
-A **Impulso Digital Soluções em I.A. Ltda.** é uma iniciativa brasileira de desenvolvimento e pesquisa aplicada em software e inteligência artificial, liderada por Felipe Marcos de Abreu Aquino.
+A **Impulso Digital Soluções em IA** é uma iniciativa brasileira de desenvolvimento e pesquisa aplicada em software e inteligência artificial, liderada por Felipe Marcos de Abreu Aquino.
 
 O portfólio reúne projetos em diferentes estágios, desde protótipos de software com código executável até propostas de pesquisa e documentação conceitual. A prioridade desta página é facilitar a avaliação técnica independente e abrir conversas com investidores, patrocinadores, empresas, universidades, institutos de pesquisa e parceiros de implementação.
 
