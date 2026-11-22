@@ -1,0 +1,63 @@
+name: "Interesse em parceria ou apoio"
+description: "Registre interesse em pesquisa, piloto, patrocínio ou colaboração técnica."
+title: "[Parceria] "
+labels: ["partnership-inquiry"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Obrigado pelo interesse na Impulso Digital. **Este formulário é público.**
+        Não inclua dados pessoais sensíveis, valores confidenciais, contratos, credenciais, segredos comerciais ou informações protegidas. Para tratar detalhes privados, use impulsodigitalfinanceira@gmail.com.
+  - type: input
+    id: organization
+    attributes:
+      label: Organização
+      description: Nome da empresa, universidade, ICT, fundo ou comunidade.
+      placeholder: Organização
+    validations:
+      required: true
+  - type: dropdown
+    id: interest
+    attributes:
+      label: Tipo de interesse
+      options:
+        - Investimento (conversa inicial)
+        - Patrocínio ou apoio financeiro
+        - Créditos de nuvem ou infraestrutura
+        - Pesquisa e cooperação científica
+        - Piloto ou validação de produto
+        - Mentoria ou revisão técnica
+        - Contribuição open source
+        - Outro
+    validations:
+      required: true
+  - type: input
+    id: project
+    attributes:
+      label: Projeto ou frente de interesse
+      placeholder: Aurora GeoIntelligence XAI, Sentinela Brasil, Oráculo X-37...
+    validations:
+      required: true
+  - type: textarea
+    id: public_scope
+    attributes:
+      label: Resumo público da proposta
+      description: Compartilhe apenas informações que podem ficar visíveis publicamente.
+      placeholder: Objetivo, contribuição pretendida e próximo passo sugerido.
+    validations:
+      required: true
+  - type: input
+    id: contact
+    attributes:
+      label: Contato institucional público
+      description: E-mail profissional ou site institucional, se desejar.
+      placeholder: nome@organizacao.com
+    validations:
+      required: false
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: Confirmação
+      options:
+        - label: Entendo que esta issue é pública e não contém informações confidenciais.
+          required: true
