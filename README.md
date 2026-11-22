@@ -87,6 +87,20 @@ A visão que orienta o trabalho é contribuir para a **soberania tecnológica br
 
 *As tecnologias representam ferramentas encontradas em diferentes repositórios. Não significa que todos os projetos utilizem toda a stack.*
 
+## 💼 Investidores, patrocinadores e parceiros
+
+A Impulso Digital está estruturando oportunidades de investimento, patrocínio, cooperação científica, pilotos e apoio técnico. O portfólio é apresentado por maturidade e evidência, sem confundir pesquisa com produto pronto.
+
+- [**Investor & Partner Relations**](INVESTOR-RELATIONS.md) · visão institucional, oportunidades e contato.
+- [**Catálogo de projetos**](PROJECT-PORTFOLIO.md) · escopo, estágio e próximos marcos.
+- [**Roadmap e uso de recursos**](FUNDING-ROADMAP.md) · fases, entregáveis e governança.
+- [**Data Room / Due Diligence**](DUE-DILIGENCE.md) · índice de evidências e documentos pendentes.
+- [**Como apoiar**](SUPPORT.md) · patrocínio, infraestrutura, pesquisa e colaboração.
+
+📩 **Contato institucional:** [impulsodigitalfinanceira@gmail.com](mailto:impulsodigitalfinanceira@gmail.com) · [WhatsApp](https://wa.me/5531996224300)
+
+> Investimentos e patrocínios dependem de diligência, estrutura jurídica e instrumentos formais. Não há promessa de retorno financeiro, captação pública ou parceria institucional presumida.
+
 ## 🔬 Princípios de engenharia
 
 - **Explicabilidade:** documentar premissas, métodos, limitações e resultados.
