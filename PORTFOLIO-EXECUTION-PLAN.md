@@ -10,7 +10,7 @@ Preparar cada repositório para avaliação técnica por universidades, parceiro
 
 ## Regra de classificação
 
-- **Implementação experimental:** existe código executável, mas precisa de validação, testes ou segurança.
+- **Implementação em validação:** existe código executável, mas ainda requer validação, testes ou controles de segurança.
 - **Demonstração:** interface, fluxo simulado ou integração parcial. Dados e funções simuladas devem estar identificados.
 - **Pesquisa/proposta:** hipótese, whitepaper ou arquitetura ainda sem implementação operacional.
 - **Fork/infraestrutura:** código derivado ou ferramenta auxiliar; atribuição e licença precisam estar claras.
@@ -20,7 +20,7 @@ Preparar cada repositório para avaliação técnica por universidades, parceiro
 ### P0: demonstradores prioritários
 
 1. **aurora-geointelligence-xai** — validar instalação limpa, dependências, GeoTIFF/CRS/NoData, limites de upload e suíte de testes; publicar demo e resultados reproduzíveis. O agrupamento MiniBatchKMeans é visual e não semântico; não alegar classificação de cobertura do solo ou XAI de modelo supervisionado.
-2. **sentinela-brasil** — revisar autenticação/autorização por rota, bootstrap, rotação e backup de chaves, criptografia, ledger, upload, privacidade e testes de integração/abuso. Protótipo local, não produção.
+2. **sentinela-brasil** — revisar autenticação/autorização por rota, bootstrap, rotação e backup de chaves, criptografia, ledger, upload, privacidade e testes de integração/abuso. API local com testes automatizados aprovados; ainda não é implantação de produção.
 3. **oraculo-x37** — reconciliar Flask/FastAPI, versões de dependências, imports, execução do MCP, modelos serializados, configuração DEBUG e exposição de rede. Adicionar CI e documentação de deploy.
 4. **Can-rio-amarelo- / canario-amarelo-versao-soberana / ORACULOX37-V-3.6.9** — separar funções Speckle Automate de serviços ML/MCP; confirmar o módulo `flatten.flatten_base`; criar fixtures BIM e testes heurísticos. Não alegar certificação normativa ou cálculo estrutural.
 
@@ -78,7 +78,7 @@ O conector GitHub permite ler e gravar arquivos e metadados, mas esta rodada nã
 
 ## Próxima sequência de trabalho
 
-- Fechar P0 com testes reais, CI compatível e releases.
+- Concluir P0 com testes em ambiente limpo, CI compatível, segurança revisada e releases versionadas.
 - Depois concluir P1 por stack e domínio.
 - Transformar P2 em projetos de pesquisa com critérios mensuráveis.
 - Revisar P3 e atribuições de terceiros.
@@ -104,9 +104,16 @@ O conector GitHub permite ler e gravar arquivos e metadados, mas esta rodada nã
 
 ### Oráculo X-37
 - Corrigido o padrão de DEBUG para permanecer desativado por padrão em `app/core/config.py` (commit `f037a95e0f58128a0432a3378e8bbe36bbef799f`).
-- Substituída a política SECURITY.md genérica por orientações coerentes com o estado experimental, incluindo alerta sobre rotas sem autenticação e artefatos pickle.
+- Substituída a política SECURITY.md genérica por orientações coerentes com o estágio atual de desenvolvimento, incluindo alerta sobre rotas sem autenticação e artefatos pickle.
 - Adicionado Dependabot para atualizações semanais de dependências Python e GitHub Actions.
 - As execuções CI do commit de documentação e do commit de configuração Dependabot foram disparadas; a conclusão do run mais recente ainda precisa ser conferida.
 - Bloqueador técnico: API Flask e servidor MCP não possuem autenticação de produção integrada; não expor publicamente. Manifestos de dependências ainda precisam ser reconciliados e testados em instalação limpa.
 
 **Nota de integridade:** resultados de CI comprovam apenas os comandos executados no workflow e naquele commit. Não constituem certificação, auditoria independente, garantia de segurança ou prontidão para produção.
+
+
+## Identidade visual e institucional
+
+Em 22/11/2026, os READMEs dos 33 repositórios de projetos foram padronizados para exibir **Impulso Digital Soluções em IA** e incorporar um diagrama SVG próprio de fluxo/funcionalidades em `PROJECT-OVERVIEW.svg`. Os diagramas foram preparados com elementos SVG básicos para compatibilidade com a renderização do GitHub. São mapas explicativos do código/documentação, não screenshots de uma execução real.
+
+Os rótulos públicos de maturidade foram ajustados para descrever entregas e estágios de desenvolvimento, sem declarar conclusão, homologação ou prontidão de produção sem evidência. Repositórios que ainda são documentos de pesquisa ou especificação continuam identificados como tal.
