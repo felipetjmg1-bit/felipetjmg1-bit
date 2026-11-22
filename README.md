@@ -1,71 +1,114 @@
 <div align="center">
-  <img src="assets/robot-brasil-neon.gif" alt="Identidade visual tecnológica brasileira" width="100%" />
+
+  <img src="assets/impulso-digital-spectrum.svg" alt="Impulso Digital: inteligência em movimento, arte tecnológica animada em quatro cores" width="100%" />
+
   <h1>Felipe Marcos de Abreu Aquino</h1>
-  <h3>Fundador e CEO · Impulso Digital Soluções em I.A.</h3>
-  <p>Engenharia de software, inteligência artificial aplicada, geointeligência e governança de dados.</p>
-  <p><strong>Brasília/DF · Minas Gerais</strong></p>
+  <h3>Fundador, CEO e Chief AI Architect · Impulso Digital Soluções em I.A. Ltda.</h3>
+
+  <p><strong>Construindo tecnologia com propósito, transparência e cooperação.</strong></p>
+
+  <p>
+    <a href="https://github.com/felipetjmg1-bit?tab=repositories"><img src="https://img.shields.io/badge/EXPLORAR-REPOSITÓRIOS-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="Explorar repositórios" /></a>
+    <a href="https://github.com/felipetjmg1-bit/aurora-geointelligence-xai"><img src="https://img.shields.io/badge/DESTAQUE-AURORA%20GEOINTELLIGENCE-16a34a?style=for-the-badge" alt="Aurora GeoIntelligence XAI" /></a>
+    <a href="mailto:impulsodigitalfinanceira@gmail.com"><img src="https://img.shields.io/badge/CONTATO-IMPULSO%20DIGITAL-ea580c?style=for-the-badge&logo=gmail&logoColor=white" alt="Contato Impulso Digital" /></a>
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/IA-MULTIMODAL-7c3aed?style=flat-square" alt="IA multimodal" />
+    <img src="https://img.shields.io/badge/EXPLAINABLE_AI-XAI-0284c7?style=flat-square" alt="Explainable AI" />
+    <img src="https://img.shields.io/badge/OPEN_SOURCE-COLABORAÇÃO-16a34a?style=flat-square" alt="Open source" />
+    <img src="https://img.shields.io/badge/BASE-BRASIL-f59e0b?style=flat-square" alt="Brasil" />
+  </p>
 </div>
 
-## Sobre
+---
 
-Atuo na concepção, prototipagem e documentação de soluções de software e inteligência artificial. Meu foco técnico inclui sistemas explicáveis, processamento geoespacial, APIs, segurança defensiva e experimentação open source.
+## 👋 Sobre
 
-A soberania tecnológica brasileira é uma direção de pesquisa e desenvolvimento, construída com transparência sobre o estágio real de cada projeto e abertura à colaboração técnica.
+Sou fundador da **Impulso Digital Soluções em I.A. Ltda.** e atuo na concepção, prototipagem e documentação de soluções de inteligência artificial e engenharia de software.
 
-## Projetos com código executável
+Minha agenda técnica reúne **IA multimodal, Explainable AI (XAI), geointeligência, governança de dados, APIs, automação e segurança por arquitetura**.
 
-| Projeto | Escopo observado | Maturidade |
-|---|---|---|
-| [Aurora GeoIntelligence XAI](https://github.com/felipetjmg1-bit/aurora-geointelligence-xai) | Interface Gradio para inspeção de imagens, agrupamento visual e relatórios; CPU-first | MVP experimental |
-| [Sentinela Brasil](https://github.com/felipetjmg1-bit/sentinela-brasil) | API FastAPI, políticas de acesso, vault local e ledger de auditoria | Protótipo funcional |
-| [Oráculo X-37](https://github.com/felipetjmg1-bit/oraculo-x37) | API Flask, modelos scikit-learn e servidor MCP separado | Protótipo experimental |
-| [Aurora Chat IA](https://github.com/felipetjmg1-bit/Chat-gpt-aurora-) | Interface Gradio integrada à API OpenAI | Protótipo funcional |
+A visão que orienta o trabalho é contribuir para a **soberania tecnológica brasileira por meio da cooperação nacional**, da pesquisa aberta, da documentação verificável e do desenvolvimento responsável.
 
-Os rótulos descrevem o estado observado do código, não certificação, prontidão para produção ou validação independente.
+## 🧭 Áreas de atuação e pesquisa
 
-## Pesquisa e documentação
-
-| Iniciativa | Escopo publicado |
+| Área | Foco |
 |---|---|
-| [Projeto Ybyrá](https://github.com/felipetjmg1-bit/projeto-ybyra) | Pesquisa e provas de conceito em codificação, XAI e estruturas de integridade |
-| [Cristal 5D / Quartz 5D](https://github.com/felipetjmg1-bit/quartz-5d-sovereignty) | Proposta conceitual e documentação |
-| [SQO – Supercomputador Quântico Orbital](https://github.com/felipetjmg1-bit/SQO-Supercomputador-Quantico-Orbital) | Proposta e documentação de pesquisa |
-| [Sentinela das Águas](https://github.com/felipetjmg1-bit/sentinela-das-aguas) | Proposta técnica e documentação |
-| [Terrabras](https://github.com/felipetjmg1-bit/Terrabras) | Whitepaper e estudo conceitual |
+| 🧠 IA multimodal e XAI | Sistemas inteligentes, avaliação, interpretabilidade e rastreabilidade |
+| 🌎 Geointeligência | Dados geoespaciais, sensoriamento remoto e processamento CPU-first |
+| 🛡️ Governança e segurança | Privacidade, controle de acesso, auditoria e segurança defensiva |
+| ⚙️ Engenharia de software | APIs, aplicações, automação, testes e arquitetura modular |
+| 🇧🇷 Soberania tecnológica | Pesquisa, documentação e cooperação técnica nacional |
 
-Iniciativas documentais não devem ser interpretadas como sistemas implantados, hardware construído, parcerias formalizadas ou resultados científicos validados.
+## 🚀 Projetos em destaque
 
-## Stack técnica observada
+### Sistemas e protótipos com código
 
-Tecnologias encontradas nos projetos e manifestos públicos consultados:
+| Projeto | O que explora | Estado apresentado |
+|---|---|---|
+| [**Aurora GeoIntelligence XAI**](https://github.com/felipetjmg1-bit/aurora-geointelligence-xai) | Geointeligência, inspeção de imagens, agrupamento visual e relatórios; arquitetura CPU-first | MVP experimental |
+| [**Aurora XAI 2.5**](https://github.com/felipetjmg1-bit/aurora-xai-2-5) | Interface e experiências de inteligência artificial explicável | Projeto em evolução |
+| [**Oráculo X-37**](https://github.com/felipetjmg1-bit/oraculo-x37) | APIs Python, modelos scikit-learn e ferramentas MCP | Protótipo experimental |
+| [**Sentinela Brasil**](https://github.com/felipetjmg1-bit/sentinela-brasil) | Governança de dados, políticas de acesso, vault local e trilha de auditoria | Protótipo funcional |
+| [**Canário Soberano X**](https://github.com/felipetjmg1-bit/canario-soberano-x) | Arquitetura de IA adaptativa e soberania de dados | Pesquisa e planejamento |
+| [**Aurora Sovereign Intelligence**](https://github.com/felipetjmg1-bit/Aurora-Sovereign-Intelligence) | Componentes Python e arquitetura modular | Demonstração |
 
-- **Linguagens:** Python, JavaScript e TypeScript.
-- **IA e dados:** scikit-learn, NumPy, SHAP, Pillow e Rasterio.
-- **Backend e APIs:** Flask, FastAPI, Gradio e Node.js.
-- **Frontend:** React e Next.js em repositórios web.
-- **Engenharia:** Docker, pytest, GitHub Actions e SQLite.
+### Pesquisa, conceitos e documentação
 
-A lista é indicativa, não uma declaração de domínio de todas as ferramentas nem de uso em todos os projetos. Não apresento PyTorch, GPU ou computação quântica como stack operacional dos quatro projetos em destaque.
+| Iniciativa | Tema |
+|---|---|
+| [**Projeto Ybyrá**](https://github.com/felipetjmg1-bit/projeto-ybyra) | Pesquisa em estruturas de integridade, codificação e XAI |
+| [**Cristal 5D / Quartz 5D**](https://github.com/felipetjmg1-bit/quartz-5d-sovereignty) | Proposta conceitual de armazenamento e soberania de dados |
+| [**SQO – Supercomputador Quântico Orbital**](https://github.com/felipetjmg1-bit/SQO-Supercomputador-Quantico-Orbital) | Proposta e documentação de pesquisa |
+| [**Sentinela das Águas**](https://github.com/felipetjmg1-bit/sentinela-das-aguas) | Pesquisa e proposta técnica para monitoramento hídrico |
+| [**Terrabras**](https://github.com/felipetjmg1-bit/Terrabras) | Whitepaper e estudo conceitual |
 
-## Princípios de engenharia
+<p align="center">
+  <a href="https://github.com/felipetjmg1-bit?tab=repositories"><img src="https://img.shields.io/badge/VER%20PORTFÓLIO-COMPLETO-0f766e?style=for-the-badge&logo=github" alt="Ver portfólio completo" /></a>
+</p>
 
-- Código preservado e mudanças rastreáveis por Pull Request.
-- README reproduzível, exemplos e testes.
-- Segurança e privacidade desde o desenho.
-- Separação entre demonstração, protótipo, pesquisa e produção.
-- Revisão humana e avaliação independente para aplicações de maior impacto.
+> **Transparência de maturidade:** os estados acima são descrições resumidas dos projetos. Pesquisa, documentação, demonstração, protótipo e MVP não significam certificação, validação independente, implantação em produção ou parceria institucional formalizada.
 
-## Links e contato
+## 🧰 Tecnologias presentes no portfólio
 
-- **GitHub:** [github.com/felipetjmg1-bit](https://github.com/felipetjmg1-bit)
-- **ORCID:** [0009-0006-8901-0425](https://orcid.org/0009-0006-8901-0425)
-- **Google Developer Profile:** [g.dev/professorfelipeaquino](https://g.dev/professorfelipeaquino)
-- **Lattes:** [6200762828020515](http://lattes.cnpq.br/6200762828020515)
-- **Contato profissional:** impulsodigitalfinanceira@gmail.com
-- **WhatsApp profissional:** +55 31 99622-4300
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Flask-222222?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white" alt="Gradio" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+</p>
 
-O endereço oficial do site institucional será incluído aqui após confirmação do domínio canônico.
+*As tecnologias representam ferramentas encontradas em diferentes repositórios. Não significa que todos os projetos utilizem toda a stack.*
 
-## Licença e colaboração
+## 🔬 Princípios de engenharia
 
-Consulte a licença específica de cada repositório. Contribuições técnicas, issues e propostas de melhoria são bem-vindas nos respectivos projetos.
+- **Explicabilidade:** documentar premissas, métodos, limitações e resultados.
+- **Reprodutibilidade:** instruções claras, testes e evidências verificáveis.
+- **Segurança e privacidade:** considerar dados, permissões e dependências desde o desenho.
+- **Modularidade:** componentes com responsabilidades claras e interfaces documentadas.
+- **Maturidade transparente:** diferenciar pesquisa, simulação, demonstração, protótipo e produção.
+- **Cooperação:** acolher revisão técnica, contribuições open source e colaboração institucional formal.
+
+## 🤝 Cooperação e contato
+
+A Impulso Digital está aberta ao diálogo técnico com universidades, institutos de pesquisa, empresas, laboratórios, comunidades de desenvolvimento e instituições públicas, respeitando os processos e instrumentos formais de cada organização.
+
+<div align="center">
+
+  **Vamos construir tecnologia brasileira com responsabilidade e colaboração.**
+
+  <a href="mailto:impulsodigitalfinanceira@gmail.com"><img src="https://img.shields.io/badge/E--MAIL-impulsodigitalfinanceira%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+  <a href="https://wa.me/5531996224300"><img src="https://img.shields.io/badge/WHATSAPP-CONVERSAR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://orcid.org/0009-0006-8901-0425"><img src="https://img.shields.io/badge/ORCID-0009--0006--8901--0425-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
+  <a href="https://g.dev/professorfelipeaquino"><img src="https://img.shields.io/badge/GOOGLE%20DEVELOPER-PROFILE-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developer Profile" /></a>
+  <a href="http://lattes.cnpq.br/6200762828020515"><img src="https://img.shields.io/badge/CNPq-LATTES-1D4ED8?style=for-the-badge" alt="Currículo Lattes" /></a>
+
+  <sub>Impulso Digital · Brasil · Open Source · Tecnologia com propósito</sub>
+</div>
