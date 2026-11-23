@@ -1,34 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="560" viewBox="0 0 1600 560" role="img" aria-labelledby="title desc">
 <title id="title">Impulso Digital | Inteligência em movimento</title>
-<desc id="desc">Arte tecnológica animada em quatro cores, com rede neural, órbitas e núcleo luminoso.</desc>
+<desc id="desc">Banner animado de alta legibilidade com identidade tecnológica em quatro cores.</desc>
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#07152f"/><stop offset=".48" stop-color="#10113a"/><stop offset="1" stop-color="#071d26"/></linearGradient>
-  <linearGradient id="spectrum" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#ff3b30"><animate attributeName="stop-color" values="#ff3b30;#ffbd2e;#25c56f;#2997ff;#ff3b30" dur="8s" repeatCount="indefinite"/></stop><stop offset=".33" stop-color="#ffbd2e"><animate attributeName="stop-color" values="#ffbd2e;#25c56f;#2997ff;#ff3b30;#ffbd2e" dur="8s" repeatCount="indefinite"/></stop><stop offset=".66" stop-color="#25c56f"><animate attributeName="stop-color" values="#25c56f;#2997ff;#ff3b30;#ffbd2e;#25c56f" dur="8s" repeatCount="indefinite"/></stop><stop offset="1" stop-color="#2997ff"><animate attributeName="stop-color" values="#2997ff;#ff3b30;#ffbd2e;#25c56f;#2997ff" dur="8s" repeatCount="indefinite"/></stop></linearGradient>
-  <radialGradient id="glow"><stop stop-color="#fff" stop-opacity=".9"/><stop offset=".2" stop-color="#52d8ff" stop-opacity=".55"/><stop offset="1" stop-color="#52d8ff" stop-opacity="0"/></radialGradient>
-  <filter id="blur"><feGaussianBlur stdDeviation="12"/></filter>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#06142b"/><stop offset=".52" stop-color="#10183b"/><stop offset="1" stop-color="#062b32"/></linearGradient>
+ <linearGradient id="spectrum"><stop stop-color="#ff453a"><animate attributeName="stop-color" values="#ff453a;#ffcc32;#22c879;#2997ff;#ff453a" dur="9s" repeatCount="indefinite"/></stop><stop offset=".34" stop-color="#ffcc32"><animate attributeName="stop-color" values="#ffcc32;#22c879;#2997ff;#ff453a;#ffcc32" dur="9s" repeatCount="indefinite"/></stop><stop offset=".68" stop-color="#22c879"><animate attributeName="stop-color" values="#22c879;#2997ff;#ff453a;#ffcc32;#22c879" dur="9s" repeatCount="indefinite"/></stop><stop offset="1" stop-color="#2997ff"><animate attributeName="stop-color" values="#2997ff;#ff453a;#ffcc32;#22c879;#2997ff" dur="9s" repeatCount="indefinite"/></stop></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#fff" stop-opacity=".8"/><stop offset=".25" stop-color="#38cfff" stop-opacity=".35"/><stop offset="1" stop-color="#38cfff" stop-opacity="0"/></radialGradient>
+ <filter id="blur"><feGaussianBlur stdDeviation="24"/></filter>
 </defs>
-<rect width="1200" height="340" rx="28" fill="url(#bg)"/>
-<g opacity=".14" stroke="#8ccfff" stroke-width="1"><path d="M0 70H1200M0 140H1200M0 210H1200M0 280H1200M100 0V340M200 0V340M300 0V340M400 0V340M500 0V340M600 0V340M700 0V340M800 0V340M900 0V340M1000 0V340M1100 0V340"/></g>
-<circle cx="930" cy="168" r="145" fill="url(#glow)" filter="url(#blur)"/>
-<g fill="none" stroke="url(#spectrum)" stroke-width="2.5" opacity=".85">
-  <ellipse cx="930" cy="168" rx="205" ry="72" transform="rotate(-24 930 168)"><animateTransform attributeName="transform" type="rotate" from="0 930 168" to="360 930 168" dur="32s" repeatCount="indefinite"/></ellipse>
-  <ellipse cx="930" cy="168" rx="160" ry="112" transform="rotate(42 930 168)"><animateTransform attributeName="transform" type="rotate" from="360 930 168" to="0 930 168" dur="25s" repeatCount="indefinite"/></ellipse>
-  <path d="M720 170 Q820 30 930 168 T1140 166"><animate attributeName="stroke-dasharray" values="8 14;30 10;8 14" dur="5s" repeatCount="indefinite"/></path>
+<rect width="1600" height="560" rx="36" fill="url(#bg)"/>
+<g opacity=".12" stroke="#a4dfff"><path d="M0 100H1600M0 200H1600M0 300H1600M0 400H1600M0 500H1600M100 0V560M200 0V560M300 0V560M400 0V560M500 0V560M600 0V560M700 0V560M800 0V560M900 0V560M1000 0V560M1100 0V560M1200 0V560M1300 0V560M1400 0V560M1500 0V560" fill="none"/></g>
+<circle cx="1260" cy="280" r="260" fill="url(#glow)" filter="url(#blur)"/>
+<g fill="none" stroke="url(#spectrum)" stroke-width="3" opacity=".9">
+ <ellipse cx="1260" cy="280" rx="260" ry="98" transform="rotate(-25 1260 280)"><animateTransform attributeName="transform" type="rotate" from="0 1260 280" to="360 1260 280" dur="38s" repeatCount="indefinite"/></ellipse>
+ <ellipse cx="1260" cy="280" rx="205" ry="150" transform="rotate(36 1260 280)"><animateTransform attributeName="transform" type="rotate" from="360 1260 280" to="0 1260 280" dur="31s" repeatCount="indefinite"/></ellipse>
+ <ellipse cx="1260" cy="280" rx="150" ry="210" transform="rotate(-58 1260 280)"><animateTransform attributeName="transform" type="rotate" from="0 1260 280" to="360 1260 280" dur="45s" repeatCount="indefinite"/></ellipse>
 </g>
-<g stroke="url(#spectrum)" stroke-width="2" fill="none" opacity=".8">
- <path d="M760 85L850 132L930 75L1015 132L1110 90M760 250L850 205L930 265L1015 205L1110 250M850 132L850 205M1015 132L1015 205"/>
-</g>
-<g fill="url(#spectrum)">
- <circle cx="760" cy="85" r="7"><animate attributeName="r" values="5;10;5" dur="2.5s" repeatCount="indefinite"/></circle><circle cx="850" cy="132" r="6"/><circle cx="930" cy="75" r="8"><animate attributeName="r" values="6;12;6" dur="2s" repeatCount="indefinite"/></circle><circle cx="1015" cy="132" r="6"/><circle cx="1110" cy="90" r="7"/><circle cx="760" cy="250" r="7"/><circle cx="850" cy="205" r="6"/><circle cx="930" cy="265" r="8"><animate attributeName="r" values="6;11;6" dur="2.2s" repeatCount="indefinite"/></circle><circle cx="1015" cy="205" r="6"/><circle cx="1110" cy="250" r="7"/>
-</g>
-<circle cx="930" cy="168" r="52" fill="url(#glow)"/>
-<circle cx="930" cy="168" r="28" fill="none" stroke="url(#spectrum)" stroke-width="3"><animate attributeName="r" values="24;34;24" dur="3s" repeatCount="indefinite"/></circle>
+<g stroke="url(#spectrum)" stroke-width="3" fill="none" opacity=".85"><path d="M1060 145L1150 205L1260 120L1370 205L1470 145M1060 415L1150 355L1260 440L1370 355L1470 415M1150 205V355M1370 205V355"/></g>
+<g fill="url(#spectrum)"><circle cx="1060" cy="145" r="10"/><circle cx="1150" cy="205" r="9"/><circle cx="1260" cy="120" r="12"><animate attributeName="r" values="9;15;9" dur="2.4s" repeatCount="indefinite"/></circle><circle cx="1370" cy="205" r="9"/><circle cx="1470" cy="145" r="10"/><circle cx="1060" cy="415" r="10"/><circle cx="1150" cy="355" r="9"/><circle cx="1260" cy="440" r="12"/><circle cx="1370" cy="355" r="9"/><circle cx="1470" cy="415" r="10"/></g>
+<circle cx="1260" cy="280" r="90" fill="url(#glow)"/><circle cx="1260" cy="280" r="52" fill="none" stroke="url(#spectrum)" stroke-width="5"><animate attributeName="r" values="44;62;44" dur="3s" repeatCount="indefinite"/></circle>
 <g font-family="Segoe UI,Arial,sans-serif">
- <text x="66" y="104" fill="#9bdcff" font-size="17" font-weight="700" letter-spacing="5">IMPULSO DIGITAL</text>
- <text x="64" y="163" fill="#fff" font-size="43" font-weight="800">INTELIGÊNCIA</text>
- <text x="64" y="211" fill="url(#spectrum)" font-size="43" font-weight="800">EM MOVIMENTO</text>
- <text x="67" y="252" fill="#c7d7ed" font-size="17">IA multimodal • XAI • Engenharia • Soberania tecnológica</text>
- <rect x="67" y="278" width="270" height="4" rx="2" fill="url(#spectrum)"/>
+ <text x="92" y="138" fill="#9bdcff" font-size="29" font-weight="800" letter-spacing="8">IMPULSO DIGITAL</text>
+ <text x="88" y="250" fill="#ffffff" font-size="86" font-weight="900" letter-spacing="-2">INTELIGÊNCIA</text>
+ <text x="88" y="350" fill="url(#spectrum)" font-size="86" font-weight="900" letter-spacing="-2">EM MOVIMENTO</text>
+ <text x="94" y="420" fill="#d6e7f8" font-size="30" font-weight="600">IA MULTIMODAL  •  XAI  •  ENGENHARIA DE SOFTWARE</text>
+ <text x="94" y="468" fill="#a9c6df" font-size="25">Pesquisa aplicada, sistemas explicáveis e tecnologia brasileira</text>
+ <rect x="94" y="500" width="580" height="7" rx="4" fill="url(#spectrum)"/>
 </g>
-<rect x="1" y="1" width="1198" height="338" rx="27" fill="none" stroke="url(#spectrum)" stroke-width="2" opacity=".85"/>
+<rect x="2" y="2" width="1596" height="556" rx="34" fill="none" stroke="url(#spectrum)" stroke-width="3"/>
 </svg>
