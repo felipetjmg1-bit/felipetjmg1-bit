@@ -34,14 +34,18 @@
 </g>
 <!-- orbital satellite -->
 <g transform="translate(1030 70)" stroke="#39dcff" stroke-width="4" fill="#0c3151" filter="url(#glow)"><rect x="0" y="15" width="52" height="42" rx="7"/><path d="M-48 7H-4V65H-48ZM56 7H100V65H56Z" fill="#0b4b76"/><path d="M26 15V-12M26 57V82" stroke="#ffe34e"/></g>
-<text x="435" y="116" fill="#dff8ff" font-family="Arial,sans-serif" font-size="38" font-weight="700" letter-spacing="7">IMPULSO DIGITAL</text>
-<text x="430" y="205" fill="url(#gold)" font-family="Arial,sans-serif" font-size="82" font-weight="900" letter-spacing="1" filter="url(#glow)">SOBERANIA</text>
-<text x="435" y="282" fill="#f6fbff" font-family="Arial,sans-serif" font-size="54" font-weight="800" letter-spacing="3">NACIONAL TECNOLÓGICA</text>
-<text x="440" y="337" fill="#6df7ff" font-family="Arial,sans-serif" font-size="26" font-weight="700" letter-spacing="5">IA • ROBÓTICA • DADOS • INOVAÇÃO</text>
-<text x="440" y="385" fill="#c7e6f5" font-family="Arial,sans-serif" font-size="20" letter-spacing="3">DESENVOLVER NO BRASIL. PROTEGER O QUE É NOSSO.</text>
+<g transform="translate(455 55)" fill="none" stroke-width="12" stroke-linejoin="round" filter="url(#glow)"><path d="M30 28L70 6L110 28L110 72L70 94L30 72Z" stroke="#ff3b30"/><path d="M70 6L112 29L112 74L72 97L32 74" stroke="#ffd52e"/><path d="M30 72L-8 94L-8 138L30 160L70 138" stroke="#00cfff"/><path d="M110 72L150 94L150 138L110 160L70 138" stroke="#00ef83"/></g>\n<text x="635" y="116" fill="#dff8ff" font-family="Arial,sans-serif" font-size="38" font-weight="700" letter-spacing="7">IMPULSO DIGITAL</text>
+<text x="635" y="205" fill="url(#gold)" font-family="Arial,sans-serif" font-size="82" font-weight="900" letter-spacing="1" filter="url(#glow)">SOBERANIA</text>
+<text x="635" y="282" fill="#f6fbff" font-family="Arial,sans-serif" font-size="54" font-weight="800" letter-spacing="3">NACIONAL TECNOLÓGICA</text>
+<text x="635" y="337" fill="#6df7ff" font-family="Arial,sans-serif" font-size="26" font-weight="700" letter-spacing="5">IA • ROBÓTICA • DADOS • INOVAÇÃO</text>
+<text x="635" y="385" fill="#c7e6f5" font-family="Arial,sans-serif" font-size="20" letter-spacing="3">DESENVOLVER NO BRASIL. PROTEGER O QUE É NOSSO.</text>
 <g fill="none" stroke-width="3" opacity=".9"><path d="M410 140H380L350 170H310" stroke="#00f6a5"/><path d="M970 310H1060L1110 260" stroke="#00dfff"/><path d="M420 355H360L320 315" stroke="#ffd747"/></g>
 <circle cx="310" cy="170" r="6" fill="#00f6a5"><animate attributeName="opacity" values=".3;1;.3" dur="1.8s" repeatCount="indefinite"/></circle>
 <circle cx="1110" cy="260" r="6" fill="#00dfff"><animate attributeName="opacity" values=".3;1;.3" dur="1.4s" repeatCount="indefinite"/></circle>
 <path d="M0 20H1600" stroke="#00dfff" stroke-width="2" opacity=".7"><animate attributeName="opacity" values=".2;.9;.2" dur="3s" repeatCount="indefinite"/></path>
-<rect x="4" y="4" width="1592" height="432" rx="25" fill="none" stroke="#00dfff" stroke-opacity=".65" stroke-width="2"/>
+<g font-family="Arial,sans-serif" filter="url(#glow)">
+<g transform="translate(425 405)"><rect width="245" height="25" rx="6" fill="#041b2c" stroke="#00dfff"/><text x="10" y="18" fill="#e9fbff" font-size="14">CRISTAL 5D • QUARTZO</text></g>
+<g transform="translate(685 405)"><rect width="220" height="25" rx="6" fill="#041b2c" stroke="#00ef83"/><text x="10" y="18" fill="#e9fbff" font-size="14">AURORA XAI • IA</text></g>
+<g transform="translate(920 405)"><rect width="255" height="25" rx="6" fill="#041b2c" stroke="#ffd52d"/><text x="10" y="18" fill="#e9fbff" font-size="14">SATÉLITES • GEOINTELIGÊNCIA</text></g>
+<g transform="translate(1190 405)"><rect width="300" height="25" rx="6" fill="#041b2c" stroke="#2d91ff"/><text x="10" y="18" fill="#e9fbff" font-size="14">SEGURANÇA • CIDADES INTELIGENTES</text></g></g>\n<rect x="4" y="4" width="1592" height="432" rx="25" fill="none" stroke="#00dfff" stroke-opacity=".65" stroke-width="2"/>
 </svg>
