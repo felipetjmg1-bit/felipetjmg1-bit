@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="assets/impulso-digital-soberania-neon.svg" alt="Impulso Digital: soberania nacional tecnológica brasileira, robótica e inteligência artificial em neon" width="100%" />\n  <p><img src="assets/impulso-digital-spectrum.svg" alt="Marca Impulso Digital nas quatro cores" width="260" /></p>
+  <!-- Banner animado será inserido quando o GIF binário for publicado. -->
 
   <h1>Felipe Marcos de Abreu Aquino</h1>
   <h3>Fundador, CEO e Chief AI Architect · Impulso Digital Soluções em IA</h3>
